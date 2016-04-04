@@ -9,9 +9,9 @@
 		"github": "https://github.com/freshdesk",
 		"blog": "http://blog.freshdesk.com",
 		"blogrss": "http://feeds.feedburner.com/freshdesk/eaHJ",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/3774_freshdesk.png",
-		"logo_width": "550",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/3774_freshdesk.png",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/freshdesk-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/freshdesk-logo.png",
 		"tags": "API-Stack,CRM,Customer-service,Enterprise,Helpdesk,Support,Support-Stack",
 		"apis": [
 		]
