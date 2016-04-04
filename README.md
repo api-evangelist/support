@@ -1,4 +1,4 @@
-API Support
+Authentication
 ==============
 
-This is a project for tracking on approaches to supporting API operations, visit http://support.apievangelist.com for more information.
+This is a project for tracking on providers are handling the authentication of APIs, visit http://authentication.apievangelist.com for more information.
