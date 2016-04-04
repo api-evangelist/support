@@ -2,7 +2,7 @@
 	"swagger": "2.0",
 	"info": {
 		"title": "API Evangelist - Support API",
-		"description": "I work to keep all the changes I make to each API self contained within each project repository. I use the Github support management for organizing my road map, support, and change log. This is just a static cache of the Github support for this project.",
+		"description": "I've been tracking on the ways that leading companies who are doing APis handle their support for some time now. I've been formalizing my research, and organizing it here. I will keep working to organize better, and produce guides, and tooling. To help drive some of it I have also developed an API that will help me manage my open APIs, as well as the support on others.",
 		"termsOfService": "http://kinlane.com/terms-of-service.html",
 		"version": "v1"
 	},
