@@ -15,9 +15,7 @@ title: 'API Support'
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
     <ul class="featurelist">
       {% for org in site.data.organizations  limit:15 %}
-
-      {% for org in site.data.organizations %}
-
+      
         {% assign bots = 0 %}
 
         {% for tag in org.tags %}
