@@ -14,9 +14,23 @@ title: 'API Support'
 
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
     <ul class="featurelist">
-      {% for org in site.data.organizations  limit:10 %}
+      {% for org in site.data.organizations  limit:15 %}
+
+      {% for org in site.data.organizations %}
+
+        {% assign bots = 0 %}
+
+        {% for tag in org.tags %}
+          {% if tag contains 'Bots' %}
+            {% assign bots = 1 %}
+          {% endif %}
+        {% endfor %}
+
+        {% if bots == 0 %}
         <li><a href="{{ org.website }}">{{ org.name }}</a></li>
-      {% endfor %}
+        {% endif %}
+
+    {% endfor %}
     </ul>
 
   </div>
