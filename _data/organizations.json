@@ -280,6 +280,31 @@
 		]
 	},
 	{
+		"id": "UdZZ2mYHkAmJmaMbxeYdqKwOB8AatXzxDhkKsEPytmkM3e46Z9AZhccEOE2bnizIcsFYYfnW1pzERxguA3mbUg117117",
+		"name": "Desk.com",
+		"summary": "Desk.com is a help desk solution focused on todays changing support environment.  An environment where customers are not only talking to you, but also about you. Utilizing Desk.coms real-time agent interface allows you to handle both traditional 1-to-1 communications as well as monitor and respond to social media. Every customer communication is actionable and reportable, allowing you to easily ma",
+		"details": "Desk.com is a help desk solution focused on todays changing support environment.  An environment where customers are not only talking to you, but also about you. Utilizing Desk.coms real-time agent interface allows you to handle both traditional 1-to-1 communications as well as monitor and respond to social media. Every customer communication is actionable and reportable, allowing you to easily manage your support needs.",
+		"website": "http://desk.com/",
+		"twitter": "http://twitter.com/desk_dev",
+		"github": "",
+		"apisjson_url": "http://theapistack.com/data/salesforce-desk/apis.json",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "http://dev.desk.com/",
+		"blog": "http://www.desk.com/blog/",
+		"blogrss": "http://feeds.feedburner.com/deskdotcom",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/connector-salesforce-desk-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/connector-salesforce-desk-logo.png",
+		"tags": [
+			"Support-Stack",
+			"Support",
+			"Help Desk",
+			"API-Stack"
+		]
+	},
+	{
 		"id": "Qg7FkICCBEZX123HFZhXnGNlEjJTSQYJUvOjE4lZQ116PsbZf9116123vi11612305siCqq8cs9dJUSgM4ZJxVsdIG0Zjm0wvA117117",
 		"name": "Desk.com (Slackbot)",
 		"summary": "Desk.com, the industry leading customer service application for fast growing companies.",
@@ -301,31 +326,6 @@
 			"Support",
 			"Slack",
 			"Bots"
-		]
-	},
-	{
-		"id": "UdZZ2mYHkAmJmaMbxeYdqKwOB8AatXzxDhkKsEPytmkM3e46Z9AZhccEOE2bnizIcsFYYfnW1pzERxguA3mbUg117117",
-		"name": "Desk.com Development",
-		"summary": "Desk.com is a help desk solution focused on todays changing support environment.  An environment where customers are not only talking to you, but also about you. Utilizing Desk.coms real-time agent interface allows you to handle both traditional 1-to-1 communications as well as monitor and respond to social media. Every customer communication is actionable and reportable, allowing you to easily ma",
-		"details": "Desk.com is a help desk solution focused on todays changing support environment.  An environment where customers are not only talking to you, but also about you. Utilizing Desk.coms real-time agent interface allows you to handle both traditional 1-to-1 communications as well as monitor and respond to social media. Every customer communication is actionable and reportable, allowing you to easily manage your support needs.",
-		"website": "http://desk.com/",
-		"twitter": "http://twitter.com/desk_dev",
-		"github": "",
-		"apisjson_url": "http://theapistack.com/data/salesforce-desk/apis.json",
-		"sdksio_url": "",
-		"postman_url": "",
-		"portal_url": "",
-		"base_url": "http://dev.desk.com/",
-		"blog": "http://www.desk.com/blog/",
-		"blogrss": "http://feeds.feedburner.com/deskdotcom",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/connector-salesforce-desk-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/connector-salesforce-desk-logo.png",
-		"tags": [
-			"Support-Stack",
-			"Support",
-			"Help Desk",
-			"API-Stack"
 		]
 	},
 	{
