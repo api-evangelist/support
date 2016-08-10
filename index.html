@@ -12,8 +12,11 @@ title: 'API Support'
 
   <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
 
+
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
     <ul class="featurelist">
+      {% assign totalpost = 4 %}
+      {% assign amount = 0 %}
       {% for org in site.data.organizations %}
 
         {% assign bots = 0 %}
@@ -25,7 +28,10 @@ title: 'API Support'
         {% endfor %}
 
         {% if bots == 0 %}
-        <li><a href="{{ org.website }}">{{ org.name }}</a></li>
+          {% if amount < 5 %}
+            <li>{{ amount }}<a href="{{ org.website }}">{{ org.name }}</a></li>
+            {% capture amount %}{{ amount | plus: '1' }}{% endcapture %}
+          {% endif %}
         {% endif %}
 
     {% endfor %}
