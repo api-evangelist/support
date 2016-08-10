@@ -1,183 +1,20 @@
+---
+layout: none
+---
 [
-	{
-		"id": "CM4s7J7D123HH8JjKLTWDNoNyT2xOA1zKturuWiOI6kxM117",
-		"name": "Freshdesk",
-		"summary": "Freshdesk is a cloud-based customer support platform that was founded with the mission of enabling companies of all sizes to provide great customer service. u00a0Our goal is simple: make it easy for brands to talk to their customers and make it easy for users to get in touch with businesses.",
-		"details": "Freshdesk is a cloud-based customer support platform that was founded with the mission of enabling companies of all sizes to provide great customer service. u00a0Our goal is simple: make it easy for brands to talk to their customers and make it easy for users to get in touch with businesses.",
-		"website": "http://www.freshdesk.com",
-		"twitter": "https://twitter.com/freshdesk",
-		"github": "https://github.com/freshdesk",
-		"blog": "http://blog.freshdesk.com",
-		"blogrss": "http://feeds.feedburner.com/freshdesk/eaHJ",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/freshdesk-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/freshdesk-logo.png",
-		"tags": "API-Stack,CRM,Customer-service,Enterprise,Helpdesk,Support,Support-Stack",
-		"apis": [
-		]
-	},
-	{
-		"id": "u9oQUW9Wsoq5116wIsoX6AKq9116M116I0ubh19KsGoTz1d2U117",
-		"name": "Get Satisfaction",
-		"summary": "Get Satisfaction is the community platform that helps companies create engaging customer experiences by fostering online conversations about their products and services at every stage of the lifecycle. Get Satisfaction powers 70,000 active customer communities hosting more than 35 million consumers each month. From its inception in 2007, Get Satisfaction has been focused on building an intuitive, ",
-		"details": "Get Satisfaction is the community platform that helps companies create engaging customer experiences by fostering online conversations about their products and services at every stage of the lifecycle. Get Satisfaction powers 70,000 active customer communities hosting more than 35 million consumers each month. From its inception in 2007, Get Satisfaction has been focused on building an intuitive, easy to use community platform that is designed to bring resolution to consumers; is highly discoverable by search engines and is implemented quickly and easily.",
-		"website": "http://getsatisfaction.com",
-		"twitter": "https://twitter.com/getsatisfaction",
-		"github": "https://github.com/satisfaction",
-		"blog": "http://blog.getsatisfaction.com/",
-		"blogrss": "http://blog.getsatisfaction.com/feed/",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/get_satisfaction_logo.png",
-		"logo_width": "200",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/get_satisfaction_logo.png",
-		"tags": "API Management Self-Service Support,Building Block,Forums,Support",
-		"apis": [
-		]
-	},
-	{
-		"id": "OIBLeAjTDclHSpBF9XEUvorIz92jKIDWY0EnIVoox28117",
-		"name": "Help Scout",
-		"summary": "Help Scout provides your team with a scalable help desk, while keeping the customer experience simple and personalized. Customers wont have to create an account or keep track of their ticket number because to them it works just like email.  The customer experience is simple and training staff is painless, but Help Scout still has all the powerful features you need to provide great support at scale",
-		"details": "Help Scout provides your team with a scalable help desk, while keeping the customer experience simple and personalized. Customers wont have to create an account or keep track of their ticket number because to them it works just like email.  The customer experience is simple and training staff is painless, but Help Scout still has all the powerful features you need to provide great support at scale. With best in-class-reporting, an integrated knowledge base, 50+ integrations and a robust API, Help Scout lets your team focus on what really matters: your customers. ",
-		"website": "http://helpscout.net/",
-		"twitter": "https://twitter.com/helpscout",
-		"github": "",
-		"blog": "https://www.helpscout.net/blog/",
-		"blogrss": "https://www.helpscout.net/blog/feed/rss.xml",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2044_logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2044_logo.png",
-		"tags": "API-Stack,Enterprise,Helpdesk,Support,Support-Stack",
-		"apis": [
-		]
-	},
-	{
-		"id": "3D6n116j8v8QTwkXM4ulCObVAkLmkHrNV3bLtLq116NV116Dk117",
-		"name": "MindTouch, Inc",
-		"summary": "MindTouch offers cloud software that provides self-service customer experiences that create product experts and improves marketing, sales and support. MindTouch is a leading SaaS solution for customer success/engagement management helping companies create smarter customers to accelerate the sales cycle and drive product adoption. MindTouch transforms the product and help content your company alrea",
-		"details": "MindTouch offers cloud software that provides self-service customer experiences that create product experts and improves marketing, sales and support. MindTouch is a leading SaaS solution for customer success/engagement management helping companies create smarter customers to accelerate the sales cycle and drive product adoption. MindTouch transforms the product and help content your company already produces into a customer engagement channel. ",
-		"website": "http://developer.mindtouch.com/Deki_Wiki/API_Reference",
-		"twitter": "https://twitter.com/mindtouch",
-		"github": "",
-		"blog": "http://www.mindtouch.com/blog/",
-		"blogrss": "view-source:http://www.mindtouch.com/feed/",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/438_logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/438_logo.png",
-		"tags": "Support",
-		"apis": [
-		]
-	},
-	{
-		"id": "zN116xYL1PIKz1vHDlHH408ssASx6O6YA6rjRXZA9MJDo117",
-		"name": "Nicereply",
-		"summary": "Nicereply was born in summer of 2010 as a spin of from WebSupport, an European hosting company. Our mission is to help companies to provide an outstanding customer service. We believe, that a great customer care have a direct positive effect on improvement of business performance. Whether itu2019s a startup, e-commerce or international corporation, weu2019ve helped hundreds of companies of all siz",
-		"details": "Nicereply was born in summer of 2010 as a spin of from WebSupport, an European hosting company. Our mission is to help companies to provide an outstanding customer service. We believe, that a great customer care have a direct positive effect on improvement of business performance. Whether itu2019s a startup, e-commerce or international corporation, weu2019ve helped hundreds of companies of all sizes since our start.",
-		"website": "http://www.nicereply.com",
-		"twitter": "https://twitter.com/#!/nice_reply",
-		"github": "",
-		"blog": "http://blog.nicereply.com",
-		"blogrss": "http://blog.nicereply.com/feed/",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/627_logo.jpg",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/627_logo.jpg",
-		"tags": "API-Stack,Communication,Support,Support-Stack",
-		"apis": [
-		]
-	},
-	{
-		"id": "o2qZrpEvWuVl6RwmazNTz5OTi0iA9TbdDFBR9C123OVsc117",
-		"name": "SalesForce Desk",
-		"summary": "Desk.com is a help desk solution focused on todays changing support environment. An environment where customers are not only talking to you, but also about you. Utilizing Desk.coms real-time agent interface allows you to handle both traditional 1-to-1 communications as well as monitor and respond to social media. Every customer communication is actionable and reportable, allowing you to easily man",
-		"details": "Desk.com is a help desk solution focused on todays changing support environment. An environment where customers are not only talking to you, but also about you. Utilizing Desk.coms real-time agent interface allows you to handle both traditional 1-to-1 communications as well as monitor and respond to social media. Every customer communication is actionable and reportable, allowing you to easily manage your support needs.",
-		"website": "http://desk.com/",
-		"twitter": "http://twitter.com/desk_dev",
-		"github": "",
-		"blog": "http://www.desk.com/blog/",
-		"blogrss": "http://feeds.feedburner.com/deskdotcom",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/connector-salesforce-desk-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/connector-salesforce-desk-logo.png",
-		"tags": "API-Stack,Help Desk,Support,Support-Stack",
-		"apis": [
-			{
-				"api_id": "4wp0hL0TdegtKepfA28zZumGvN90QUXaN0b8SPhuVPM117",
-				"name": "SalesForce Desk API",
-				"slug": "salesforce-desk-api",
-				"website": "http://dev.desk.com/",
-				"openapi-spec": "http://theapistack.com/data/salesforce-desk/salesforce-desk-api-swagger.json",
-				"api-blueprint": "",
-				"postman": "",
-				"documentation": "",
-				"sdk-io": ""
-			}
-		]
-	},
-	{
-		"id": "FOLdAHniYh6U9k116o9wWqQPyUTSoHJfAGK7XTJEEgbZI117",
-		"name": "TeamSupport.com",
-		"summary": "TeamSupport is a web based Customer Service & Help Desk application that is all about helping your business provide exceptional customer support through better collaboration and teamwork. Most help desk systems are best suited for one-on-one communications with your customers and do not focus on the big picture. TeamSupport is different, bringing visibility to everyone on your team and enabling fu",
-		"details": "TeamSupport is a web based Customer Service & Help Desk application that is all about helping your business provide exceptional customer support through better collaboration and teamwork. Most help desk systems are best suited for one-on-one communications with your customers and do not focus on the big picture. TeamSupport is different, bringing visibility to everyone on your team and enabling full collaboration to solve the underlying issues. We strongly believe the best customer support experience is rooted in team collaboration. With your staff working as a team, they can easily draw on each otheru2019s experience to get the best solution.",
-		"website": "http://www.teamsupport.com/",
-		"twitter": "https://twitter.com/teamsupport",
-		"github": "",
-		"blog": "http://www.teamsupport.com/collaborative-customer-helpdesk-support-software-blog/",
-		"blogrss": "http://www.teamsupport.com/feed/",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/494_logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/494_logo.png",
-		"tags": "Customer Support,Support",
-		"apis": [
-		]
-	},
-	{
-		"id": "jwljplKLVQF4HtztNBYpdONITmyfYV58NTW5OckB5GQ117",
-		"name": "UsefulFeedback",
-		"summary": "UsefulFeedback is owned and managed by a team that have made a professional habit out of helping organisations of all types to better manage complaints and feedback. Our business is the coming together of two key areas of expertise - software design and cloud architecture coupled with a deep understanding of complaint management, as both a process and the practice of consumer redress.",
-		"details": "UsefulFeedback is owned and managed by a team that have made a professional habit out of helping organisations of all types to better manage complaints and feedback. Our business is the coming together of two key areas of expertise - software design and cloud architecture coupled with a deep understanding of complaint management, as both a process and the practice of consumer redress.",
-		"website": "http://www.usefulfeedback.com/",
-		"twitter": "https://twitter.com/usefulfeedback",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/useful-feedback-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/useful-feedback-logo.png",
-		"tags": "Feedback,Support",
-		"apis": [
-		]
-	},
-	{
-		"id": "ue9guKRMmmC7ckVTGHmfLauZO4jA5W116vTfkR0f116Vjnw117",
-		"name": "UserVoice",
-		"summary": "UserVoice creates simple customer engagement tools that help companies understand and interact with their customers more positively and build customer relationships that last. UserVoice Feedback - a hosted tool for gathering and prioritizing product ideas directly from a companyu2019s customers. UserVoice Helpdesk - a simple-to-use ticketing system that helps companies solve more customer issues i",
-		"details": "UserVoice creates simple customer engagement tools that help companies understand and interact with their customers more positively and build customer relationships that last. UserVoice Feedback - a hosted tool for gathering and prioritizing product ideas directly from a companyu2019s customers. UserVoice Helpdesk - a simple-to-use ticketing system that helps companies solve more customer issues in less time. UserVoice Full Service - a complete customer service solution that bundles Feedback and Helpdesk into a single, easy-to-manage environment.",
-		"website": "https://uservoice.com/",
-		"twitter": "https://twitter.com/uservoice",
-		"github": "https://github.com/uservoice",
-		"blog": "https://community.uservoice.com/blog/",
-		"blogrss": "http://feeds.feedburner.com/UnderstandingYourCustomers",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/UserVoice_logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/UserVoice_logo.png",
-		"tags": "API Management Self-Service Support,API-Stack,Customer Support,Customer-service,Feedback,Forum-STack,Forums,Forums,Help Desk,Support,Support-Stack",
-		"apis": [
-		]
-	},
-	{
-		"id": "CK123RUYBXpg3qnfQNtZ116huoL116XiPt6lNbd5M4UP8Rd5Y117",
-		"name": "Zendesk",
-		"summary": "Zendesk provides an integrated on-demand helpdesk - customer support portal solution based on the latest Web 2.0 technologies and design philosophies. The product has an elegant, minimalist design implemented in Ruby on Rails and provides seamless integration of the back-end helpdesk SaaS to a company&rsquo;s online customer-facing web presence, including hosted support email-ticket integration, o",
-		"details": "Zendesk provides an integrated on-demand helpdesk - customer support portal solution based on the latest Web 2.0 technologies and design philosophies. The product has an elegant, minimalist design implemented in Ruby on Rails and provides seamless integration of the back-end helpdesk SaaS to a company&rsquo;s online customer-facing web presence, including hosted support email-ticket integration, online forums, RSS and widgets.  This is unusual, because most SaaS helpdesk solutions focus exclusively on the backend helpdesk and treat the Web as an afterthought. ",
-		"website": "http://www.zendesk.com/",
-		"twitter": "https://twitter.com/zendesk",
-		"github": "https://github.com/zendesk",
-		"blog": "http://www.zendesk.com/blog",
-		"blogrss": "http://www.zendesk.com/feed",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/283_logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/283_logo.png",
-		"tags": "API LIfeycle,API Management Direct Support,API-Stack,Customer Support,Helpdesk,Interent,SaaS,Support,Support-Stack",
-		"apis": [
-		]
-	}
+{% for org in site.data.organizations %}{
+	"id": "{{ org.id }}",
+	"name": "{{ org.name }}",
+	"website": "{{ org.website }}",
+	"twitter": "{{ org.twitter }}",
+	"github": "{{ org.github }}",
+	"portal_url": "{{ org.portal_url }}",
+	"base_url": "{{ org.base_url }}",
+	"blog": "{{ org.blog }}",
+	"blogrss": "{{ org.blogrss }}",
+	"logo": "{{ org.logo }}",
+	"logo_width": "{{ org.logo_width }}",
+	"screenshot": "{{ org.screenshot }}",
+	"tags": {{ org.tags }}
+{% endfor %}}{% if org.last != true %},{% endif %}
 ]
