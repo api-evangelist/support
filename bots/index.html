@@ -1,11 +1,10 @@
 ---
 layout: page
-title: 'Support Organizations'
+title: Support Bots
 ---
 
-<h3>{{ site.title }} Organizations</h3>
-<p>{{ site.org_desc }}</p>
-
+<h3>Support Bots</h3>
+<p>These are the bots I am tracking on that focus on providing support related services.</p>
 <table width="100%" border="0" cellpadding="3" cellspacing="2">
   {% for org in site.data.organizations %}
 
@@ -17,7 +16,7 @@ title: 'Support Organizations'
       {% endif %}
     {% endfor %}
 
-    {% if bots == 0 %}
+    {% if bots == 1 %}
       <tr>
         <td align="center" width="15%" style="border-top: 1px solid #CCC; padding-top:18px; padding-bottom:18px;">
           <a href="{{ org.website }}"><img src="{{ org.logo }}" width="90%" align="center" /></a>
