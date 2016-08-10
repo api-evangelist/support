@@ -28,7 +28,7 @@ title: 'API Support'
         {% endfor %}
 
         {% if bots == 0 %}
-          {% if amount == '1' or amount == '2' or amount == '3' or amount == '4' %}
+          {% if amount == '1' or amount == '2' or amount == '3' or amount == '4' or amount == '5' or amount == '6' or amount == '7' or amount == '8' %}
             <li>{{ amount }}<a href="{{ org.website }}">{{ org.name }}</a></li>
           {% endif %}
           {% capture amount %}{{ amount | plus: '1' }}{% endcapture %}
