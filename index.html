@@ -28,7 +28,7 @@ title: 'API Support'
         {% endfor %}
 
         {% if bots == 0 %}
-          {% if amount <= 10 %}
+          {% if amount <= '10' %}
             <li>{{ amount }}<a href="{{ org.website }}">{{ org.name }}</a></li>
             {% capture amount %}{{ amount | plus: '1' }}{% endcapture %}
             {% endif %}
