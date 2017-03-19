@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "6qMRYye2kDekriRwhvQdwpih8Cfo8nk7tElLcurwjP6ey2dNfbMZ81Bw7NT9123tct7mzpnDfs86WEYxYhhOx7vQ117117",
+		"item_date": "2017-03-16 03:55:29",
+		"title": "How we managed to make our Zendesk integration support 30 languages ",
+		"url": "https://blog.algolia.com/how-we-tackled-internationalization-in-our-zendesk-integration/",
+		"domain": "blog.algolia.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bxv8noYmm4q9yBFeYmqKi116LmFc123JNFaVnWKtrQRVo4ZkGgYPaD3XFjPeA8pONIDy12350FK3wXSEyPsVsItmPD3w117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Introducing the Intercom integration for Microsoft Teams",
+		"url": "https://blog.intercom.com/introducing-the-intercom-integration-for-microsoft-teams/",
+		"domain": "blog.intercom.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5ALzISm7dv71HpYdIhtckc4mTtPX116Pg8SuX1160Mywco0sNJBjAqDnQOm1233mA3V31232UAlnLbx2lnwbH1YFy5Ph123w117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "Breaking the glass  a way forward for Google Cloud",
+		"url": "http://redmonk.com/jgovernor/2017/03/17/breaking-the-glass-a-way-forward-for-google-cloud/",
+		"domain": "redmonk.com",
+		"image": ""
+	},
+	{
 		"curated_id": "wuIl8X8eppi4O98IT7E5ijkO7pJR116suD1dOVeR5yKzgBOyPElgEQI8lF0Pehid5kq9GFBlr9123LqWZAQ5D7XP2A117117",
 		"item_date": "2017-03-06 00:00:00",
 		"title": "Announcing the HyperTrack Community",
