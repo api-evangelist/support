@@ -1,548 +1,4 @@
 ---
-- curated_id: 788703a4a07e39f5a87d8fa9820e6f66
-  item_date: "2012-04-24 09:52:04"
-  title: 'Official Google Enterprise Blog: Introducing Google Drive, the newest member
-    of Google Apps'
-  url: http://googleforwork.blogspot.com/2012/04/introducing-google-drive-newest-member.html
-  domain: googleforwork.blogspot.com
-  image: ""
-- curated_id: 690d6ad98586817270dfb6b8f7749599
-  item_date: "2012-04-26 20:49:20"
-  title: 'John Sheehan : The API Developer Experience Baseline'
-  url: http://john-sheehan.com/post/21850777760/the-api-developer-experience-baseline
-  domain: john-sheehan.com
-  image: ""
-- curated_id: bee8c395fab4e1fb081fb33306650842
-  item_date: "2012-07-10 00:00:00"
-  title: Zendesk Private Messaging on Facebook
-  url: https://www.zendesk.com/blog/zendesk-private-messaging-on-facebook
-  domain: www.zendesk.com
-  image: ""
-- curated_id: d346b5b94dd33e01adea5eaebb2cf52f
-  item_date: "2012-07-11 00:00:00"
-  title: Devs Unite! Support the Salesforce Stack Exchange Proposal
-  url: https://developer.salesforce.com/blogs/developer-relations/2012/07/devs-unite-support-the-salesforce-stack-exchange-proposal.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: fc26af8245687c7064eaf223ef87e57f
-  item_date: "2012-08-08 00:00:00"
-  title: Zendesk API v2
-  url: https://www.zendesk.com/blog/zendesk-api
-  domain: www.zendesk.com
-  image: ""
-- curated_id: cb9d42f08812a4839e16104daa5c452e
-  item_date: "2012-08-16 00:00:00"
-  title: Four New Integrations for August
-  url: https://www.zendesk.com/blog/four-new-integrations-for-august
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 31747fcd7036d9f59f3099c6aa68af26
-  item_date: "2012-08-22 00:00:00"
-  title: Keeping up with Twitter
-  url: https://www.zendesk.com/blog/keeping-up-with-twitter-customer-service-questions
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 9553f2c20a328504ce295d66eddfcb25
-  item_date: "2012-08-24 00:00:00"
-  title: Zendesk on the Google Apps Marketplace
-  url: https://www.zendesk.com/blog/zendesk-on-google-apps-marketplace
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 3e420e80d92e49626887f1c2d8d77476
-  item_date: "2012-08-28 00:00:00"
-  title: Self-service for Mobile Consumers
-  url: https://www.zendesk.com/blog/self-service-for-mobile-consumers
-  domain: www.zendesk.com
-  image: ""
-- curated_id: bfc2071902b927ba4e6b28e1226a673d
-  item_date: "2012-09-07 00:00:00"
-  title: 'Instaservice: Customer Service Gets Speedy and Social'
-  url: https://www.zendesk.com/blog/instaservice-customer-service-gets-speedy-and-social
-  domain: www.zendesk.com
-  image: ""
-- curated_id: c6142f9cf0d0c5a5251a9fb7987604bf
-  item_date: "2012-10-25 00:00:00"
-  title: Six New Integrations for October
-  url: https://www.zendesk.com/blog/six-new-integrations-for-october
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 98adb36c9c176a2af122dbfe6ba629da
-  item_date: "2012-12-06 00:00:00"
-  title: Advanced Analytics in Zendesk
-  url: https://www.zendesk.com/blog/advanced-analytics-in-zendesk
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 884b5b8ddd7cfc1ecc7b34be7637ec6d
-  item_date: "2012-12-11 00:00:00"
-  title: The new Zendesk for Salesforce integration is here
-  url: https://www.zendesk.com/blog/the-new-zendesk-for-salesforce-integration-is-here
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 13bbee6c4767fb6f9e46efd82927f34c
-  item_date: "2012-12-16 00:00:00"
-  title: 'Building Great APIs (part IV): Great Developer Support'
-  url: https://www.3scale.net/2012/12/great-apis-developer-support-part-iv/
-  domain: www.3scale.net
-  image: ""
-- curated_id: 65e98053ff8dcb061207210906e42944
-  item_date: "2012-12-30 00:00:00"
-  title: Woburn Mass joins the SeeClickFix Community with the Assistance of the Common
-    Wealth and the City of Boston
-  url: http://seeclickfix.blogspot.com/2012/12/woburn-mass-joins-seeclickfix-connect.html
-  domain: seeclickfix.blogspot.com
-  image: ""
-- curated_id: dc7b8198aa2dfc1694ff52dadf8933f0
-  item_date: "2013-01-03 00:00:00"
-  title: Mashable lists SeeClickFix As Urban Innovation to watch in 2013
-  url: http://seeclickfix.blogspot.com/2013/01/mashable-lists-seeclickfix-as-urban.html
-  domain: seeclickfix.blogspot.com
-  image: ""
-- curated_id: 6d2c1777b197c292c599dfd395bbf71d
-  item_date: "2013-01-04 00:00:00"
-  title: Why In-App support is the only way forward for the App Economy..
-  url: http://blog.freshdesk.com/why-in-app-support-is-the-only-way-forward-for-the-app-economy/
-  domain: blog.freshdesk.com
-  image: ""
-- curated_id: c4e9eda8ef4d2ad5323cd98193c23c31
-  item_date: "2013-01-07 00:00:00"
-  title: Adding the Feedback Tab to your Facebook Page
-  url: https://www.zendesk.com/blog/adding-the-feedback-tab-to-your-facebook-page
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 287a7a3555b96bf2326baf8ca3eb0135
-  item_date: "2013-01-23 00:00:00"
-  title: Six New Integrations for January
-  url: https://www.zendesk.com/blog/six-new-integrations-for-january
-  domain: www.zendesk.com
-  image: ""
-- curated_id: b65089adf431c44f698742af8107936c
-  item_date: "2013-02-22 00:00:00"
-  title: 'New improvement: see iOS and API as channels in the Helpdesk Report'
-  url: https://community.uservoice.com/blog/ios-and-api-helpdesk-report//
-  domain: community.uservoice.com
-  image: ""
-- curated_id: 4a5ba1fa09b2fd1fa2338d58f64e0ab7
-  item_date: "2013-03-06 00:00:00"
-  title: 'Excessive spam in some UserVoice accounts: under investigation'
-  url: https://community.uservoice.com/blog/excessive-spam-in-some-uservoice-accounts-under-investigation//
-  domain: community.uservoice.com
-  image: ""
-- curated_id: 316bb355c9c140181e59eb2912f056ea
-  item_date: "2013-03-07 00:00:00"
-  title: NetDNA sets the bar for startup- and developer-friendliness
-  url: https://www.leftronic.com/netdna-sets-the-bar-for-startup-and-developer
-  domain: www.leftronic.com
-  image: ""
-- curated_id: 7c2039a9f2a17f51bf666b37b458022b
-  item_date: "2013-03-14 00:00:00"
-  title: SeeClickFix for Windows Phones!
-  url: http://seeclickfix.blogspot.com/2013/03/seeclickfix-for-windows-phones.html
-  domain: seeclickfix.blogspot.com
-  image: ""
-- curated_id: 1c3bb2dde86cc7d013fd73525827ebdc
-  item_date: "2013-03-28 00:00:00"
-  title: Updates To Our Privacy Policy
-  url: http://blog.getsatisfaction.com/2013/03/28/updates-to-our-privacy-policy/
-  domain: blog.getsatisfaction.com
-  image: ""
-- curated_id: d2e1184cfd46d4b04b0bef8344dfd556
-  item_date: "2013-05-01 00:00:00"
-  title: Force.com Performance Profiling Using the Developer Console
-  url: https://developer.salesforce.com/blogs/engineering/2013/05/force-com-performance-profiling-using-the-developer-console.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: a4feafd33300a77b9623b61b1ed7a1be
-  item_date: "2013-05-03 00:00:00"
-  title: API-crazy Amazon adds a new tool to boost support for enterprise AWS customers
-  url: https://gigaom.com/2013/05/03/api-crazy-amazon-adds-a-new-tool-to-boost-support-for-enterprise-aws-customers/
-  domain: gigaom.com
-  image: ""
-- curated_id: 463234958b9764f41578980362918f96
-  item_date: "2013-05-08 00:00:00"
-  title: 'Extreme Salesforce Data: Distributed Application Partitioning with Force.com
-    Canvas and Heroku'
-  url: https://developer.salesforce.com/blogs/engineering/2013/05/extreme-salesforce-data-distributed-application-partitioning-with-force-com-canvas-and-heroku.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: a954eb510b83485084d906347c21c9a8
-  item_date: "2013-05-09 00:00:00"
-  title: Yesterday?s downtime and today?s slowness
-  url: http://blog.freshdesk.com/yesterdays-downtime-and-todays-slowness/
-  domain: blog.freshdesk.com
-  image: ""
-- curated_id: 68f90ef67f100d5a07a06d86f4dcf54f
-  item_date: "2013-05-09 00:00:00"
-  title: How Dunwoody Modernizes Their Public Works
-  url: https://gov.seeclickfix.com/2013/05/how-dunwoody-modernizes-their-public.html
-  domain: gov.seeclickfix.com
-  image: ""
-- curated_id: a6e5683a11309a4a09f508056c059173
-  item_date: "2013-05-09 00:00:00"
-  title: SeeClickFix Reaches 500,000 Issues Reported!
-  url: https://gov.seeclickfix.com/2013/05/seeclickfix-reaches-500000-issues.html
-  domain: gov.seeclickfix.com
-  image: ""
-- curated_id: ca29bd860190789fcd93cd52673c806f
-  item_date: "2013-05-15 00:00:00"
-  title: Salesforce Platform ELEVATE Workshop is Coming to Washington DC
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/05/salesforce-platform-elevate-workshops-is-coming-to-washington-dc-2.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 2368c324a9a088f11aceb90da2571e67
-  item_date: "2013-05-28 00:00:00"
-  title: 'Playing well with others: 7 new integrations'
-  url: https://www.zendesk.com/blog/playing-well-with-others-7-new-integrations
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 66be8a5ec52625d07a38b1e5f33347a4
-  item_date: "2013-06-03 00:00:00"
-  title: 'Community tip: adding a suggestion box'
-  url: http://www.zendesk.com/blog/community-tip-adding-a-suggestion-box
-  domain: www.zendesk.com
-  image: ""
-- curated_id: c4d45de869d8aff2f1149e9bfec5767c
-  item_date: "2013-06-05 00:00:00"
-  title: Introducing Get Satisfaction Labs For Developers  Community Managers
-  url: http://blog.getsatisfaction.com/2013/06/05/introducing-get-satisfaction-labs-for-developers-community-managers/
-  domain: blog.getsatisfaction.com
-  image: ""
-- curated_id: 33f6e83873e2ddfe879c044c40875aac
-  item_date: "2013-06-07 00:00:00"
-  title: 'Tip of the week: service level agreements'
-  url: https://www.zendesk.com/blog/tip-of-the-week-service-level-agreements
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 1f85cc13b60ec6288fb8b474561a535a
-  item_date: "2013-06-17 00:00:00"
-  title: 'Converser API: Hear It Straight From The Customer?s Mouth'
-  url: http://www.programmableweb.com/2013/06/17/converser-api-hear-it-straight-from-the-customers-mouth/
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: cfe0bf2b26bf6b0e4d10bae7934a9fc6
-  item_date: "2013-06-17 00:00:00"
-  title: 'Community tip: Zendesk + JIRA'
-  url: https://www.zendesk.com/blog/community-tip-zendesk-jira
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 3b997f78a1d10da10f2fe35be9969835
-  item_date: "2013-06-19 00:00:00"
-  title: City of Boston and SeeClickFix Announce the Official Launch of Commonwealth
-    Connect App
-  url: http://blog.seeclickfix.com/2013/06/city-of-boston-and-seeclickfix-announce.html
-  domain: blog.seeclickfix.com
-  image: ""
-- curated_id: 7a38fea56a62fa9ccf6024e4e46abd91
-  item_date: "2013-06-19 00:00:00"
-  title: New Data Import Wizard ? Now in Pilot
-  url: https://developer.salesforce.com/blogs/tech-pubs/2013/06/new-data-import-wizard-%e2%80%94-now-in-pilot.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: fe52902eb7abb317348050be236a75b6
-  item_date: "2013-06-27 00:00:00"
-  title: New QA Site for Bronto Developers
-  url: http://blog.bronto.com/product/new-qa-site-bronto-developers
-  domain: blog.bronto.com
-  image: ""
-- curated_id: 1c9c915868042d32390d5bb268ed15ec
-  item_date: "2013-06-28 00:00:00"
-  title: Customer Case Study ? Udemy
-  url: http://blog.zencoder.com/2013/06/28/customer-case-study-udemy/
-  domain: blog.zencoder.com
-  image: ""
-- curated_id: 2df0e0f629f24d39fb291a244b551e3c
-  item_date: "2013-07-08 00:00:00"
-  title: Intuit QuickBooks Online API provides global market opportunity for Australian...
-  url: http://www.whatech.com/members-news/accounting-solutions/15258-intuit-quickbooks-online-api-provides-global-market-opportunity-for-australian-developers
-  domain: www.whatech.com
-  image: ""
-- curated_id: 7149f132987241169f7b54941dbfbc61
-  item_date: "2013-07-30 00:00:00"
-  title: 'New PagerDuty Integrations: Apica and Stackdriver'
-  url: https://www.pagerduty.com/blog/pagerduty-integrations-apica-stackdriver/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: 5248fe424cd0516cdc52e74b668068e7
-  item_date: "2013-08-06 00:00:00"
-  title: Improving Heroku Postgres with Support Data
-  url: https://blog.heroku.com/heroku-postgres-support-data
-  domain: blog.heroku.com
-  image: ""
-- curated_id: 7ceb8e3617c426cebd71943d2f81edcd
-  item_date: "2013-08-07 00:00:00"
-  title: Free Support Upgrade, NEW Free Features and Massive Price Changes
-  url: https://www.mindtouch.com/resources/customer_consonance
-  domain: www.mindtouch.com
-  image: ""
-- curated_id: 4806b3c236fcff2e3a6bc06930679783
-  item_date: "2013-08-09 00:00:00"
-  title: 'Zendesk: A Complete Review'
-  url: https://www.ananova.com/zendesk-a-complete-review/
-  domain: www.ananova.com
-  image: ""
-- curated_id: 11fb4b633474b4d1c871661b9a41f0d5
-  item_date: "2013-08-13 00:00:00"
-  title: 'The Zendesk tool belt: 5 new integrations'
-  url: https://www.zendesk.com/blog/the-zendesk-tool-belt-5-new-integrations
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 30be62fb3d958a543572cb4ab867580f
-  item_date: "2013-08-21 00:00:00"
-  title: Zendesk Integration with PagerDuty
-  url: https://www.pagerduty.com/blog/zendesk-integration-pagerduty/
-  domain: www.pagerduty.com
-  image: ""
-- curated_id: fa8afacc753604d7d42a9d3d5c514801
-  item_date: "2013-09-05 00:00:00"
-  title: Re-launch of Zendesk advanced plans
-  url: https://www.zendesk.com/blog/re-launch-advanced-plans
-  domain: www.zendesk.com
-  image: ""
-- curated_id: 9cba106be28f084d4af4b4b63a7ce46e
-  item_date: "2013-09-06 00:00:00"
-  title: 'Support Portal Update '
-  url: https://www.docusign.com/blog/support-portal-update/
-  domain: www.docusign.com
-  image: ""
-- curated_id: cf99b61d2915919925ecf5546f76980f
-  item_date: "2013-10-01 00:00:00"
-  title: API Versions and the Salesforce Metadata API
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/10/api-versions-and-the-salesforce-metadata-api.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: f9a9feb7d67f751fe41268995d546877
-  item_date: "2013-10-16 00:00:00"
-  title: The skinny on how Xero support works
-  url: https://www.xero.com/blog/2013/10/skinny-support/
-  domain: www.xero.com
-  image: ""
-- curated_id: c36f5a60f098d5d77837499fbd4b1296
-  item_date: "2013-10-17 00:00:00"
-  title: Customers React to our New Community App
-  url: http://blog.getsatisfaction.com/2013/10/17/customer-reactions-to-our-new-community-app/
-  domain: blog.getsatisfaction.com
-  image: ""
-- curated_id: 0b276b147fea276fa351ac2551263fe9
-  item_date: "2013-10-23 00:00:00"
-  title: How to integrate Nicereply with Harvest
-  url: http://www.nicereply.com/blog/how-to-integrate-nicereply-with-harvest/
-  domain: www.nicereply.com
-  image: ""
-- curated_id: 02743c4aa045a0417423c7eb822b3132
-  item_date: "2013-10-30 00:00:00"
-  title: Stretch Your Apps with Flexible Salesforce API Limits ? Now in Pilot
-  url: https://developer.salesforce.com/blogs/tech-pubs/2013/10/stretch-your-apps-with-flexible-salesforce-api-limits-now-in-pilot.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 05343ceec8053ffe0874af1dc57b330a
-  item_date: "2013-11-02 00:00:00"
-  title: 'The MindTouch Way: Agile Software Development with GitHub'
-  url: https://www.mindtouch.com/resources/agile_github_workflow/
-  domain: www.mindtouch.com
-  image: ""
-- curated_id: fcd278d5fa1b071169d4cf9eb33d42c1
-  item_date: "2013-11-08 00:00:00"
-  title: Introducing Kinvey?s Community Forum and Updated Pricing
-  url: https://www.kinvey.com/blog/3435/introducing-kinveys-community-forum-and-updated-pricing
-  domain: www.kinvey.com
-  image: ""
-- curated_id: 3e72dfd038ac80750d4a354f425e3a55
-  item_date: "2013-11-12 00:00:00"
-  title: Uploading Photos to Chatter Files with HTML5
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/11/uploading-photos-to-chatter-files-with-html5.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: b9867afbbec1486597bde236ada94196
-  item_date: "2013-11-27 00:00:00"
-  title: Banckle CRM APIs Are Now Available for Third Party Integrations
-  url: http://banckle.com/blog/banckle-crm-apis-are-now-available-for-third-party-integrations.html
-  domain: banckle.com
-  image: ""
-- curated_id: ad8712e7ace8698752dc88ea337dd7d7
-  item_date: "2013-12-11 00:00:00"
-  title: Five Common Twilio StackOverflow Questions in Node.js, Ruby and PHP.
-  url: https://www.twilio.com/blog/2013/12/twilio-stackoverflow-questions.html
-  domain: www.twilio.com
-  image: ""
-- curated_id: 1aa9be7151e95a0632ad4c2d676e6e71
-  item_date: "2013-12-13 00:00:00"
-  title: Getting Started on Salesforce1 Platform with an ?Hour of Code?
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/12/getting-started-with-salesforce1-platform.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 68f1376c5b8831773d6e09e17d617730
-  item_date: "2013-12-13 00:00:00"
-  title: How Parse Makes App Development ?Worry Free?
-  url: http://blog.parse.com/non-technical/how-parse-makes-app-development-worry-free/
-  domain: blog.parse.com
-  image: ""
-- curated_id: bd054abf78e68ecc35f7f0b2d2a7d42a
-  item_date: "2013-12-17 00:00:00"
-  title: Developer Discussion Boards Freeze
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/12/developer-discussion-boards-freeze.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 98ba0516c1d98905e117ff2ebd43f0a8
-  item_date: "2013-12-18 00:00:00"
-  title: New API for Public ThingSpeak Channels Makes it Easy to Discover Open Data
-  url: http://community.thingspeak.com/2013/12/new-api-for-public-thingspeak-channels-make-it-easy-to-discover-open-data/
-  domain: community.thingspeak.com
-  image: ""
-- curated_id: d3e8dc7a9e6c60dfe9b83829595f511d
-  item_date: "2013-12-19 00:00:00"
-  title: 'MindTouch Product Release: Dec 19, 2013'
-  url: https://www.mindtouch.com/resources/mindtouch-product-release-dec-19-2013/
-  domain: www.mindtouch.com
-  image: ""
-- curated_id: cca5d67676c2825522d83b82ccf6e020
-  item_date: "2014-01-27 00:00:00"
-  title: The Extended Salesforce Community on IRC and Stack Exchange
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/01/the-extended-salesforce-community-on-irc-and-stack-exchange.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 52f2ceb0a6ae78d54d95aaee505d2856
-  item_date: "2014-01-27 00:00:00"
-  title: Stack Exchange for Android is here!
-  url: http://blog.stackoverflow.com/2014/01/stack-exchange-for-android-is-here/
-  domain: blog.stackoverflow.com
-  image: ""
-- curated_id: 228b21fb96997937343a17606961079e
-  item_date: "2014-01-28 00:00:00"
-  title: Help us grow the Splunk developer platform with your ideas and votes
-  url: http://blogs.splunk.com/2014/01/28/help-us-grow-the-splunk-developer-platform-with-your-ideas-and-votes/
-  domain: blogs.splunk.com
-  image: ""
-- curated_id: 28194f7dc1fc15fefd8bf22ed8df895e
-  item_date: "2014-01-30 00:00:00"
-  title: Build Charts with Historical Data and the Analytics API
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/01/build-charts-with-history-tracking-data.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: e8ba477bc4169d2df6d696801749ee28
-  item_date: "2014-01-31 00:00:00"
-  title: 'Communities Containers: Options for Building Salesforce Communities'
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/01/communities-containers-options-for-building-salesforce-communities.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: ed33221992b675e1fa70c46d4aad8d0d
-  item_date: "2014-02-28 00:00:00"
-  title: Pushing the Limits with Streaming API in Spring ?14
-  url: https://developer.salesforce.com/blogs/tech-pubs/2014/02/pushing-the-limits-with-streaming-api-in-spring-14.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: a71da1f5d4f294e36e2e3f47bb33ec2e
-  item_date: "2014-03-04 00:00:00"
-  title: Building a Native iOS Photo Sharing App On Salesforce1 mBaaS
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/03/building-a-native-ios-photo-sharing-app-on-salesforce1-mbaas.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 96e97749cc5e664f4344fc16c0592748
-  item_date: "2014-06-05 00:00:00"
-  title: How to integrate Nicereply with Salesforce
-  url: http://www.nicereply.com/blog/how-to-integrate-nicereply-with-salesforce/
-  domain: www.nicereply.com
-  image: ""
-- curated_id: f713ac7e95a4eecda682738097d45007
-  item_date: "2014-06-11 00:00:00"
-  title: Wearables and the Salesforce Wear Developer Pack ? Lessons Learned
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/06/wearables-salesforce-wear-developer-pack.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 1d2101b613ae88dedc43e0d3d3740eed
-  item_date: "2014-06-13 00:00:00"
-  title: 'Internet Of Things in 10 Minutes: Hands-On with The Device Cloud'
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/06/internet-of-things-in-10-minutes.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 8d0ded5ab9164c15e38bf6ae28112083
-  item_date: "2014-06-30 00:00:00"
-  title: Tooling and Analytics APIs?What They Are and When to Use Them
-  url: https://developer.salesforce.com/blogs/tech-pubs/2014/06/tooling-analytics-apis-use.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 03301f41fc8ebf7f2c6a79c5308a584b
-  item_date: "2014-07-15 00:00:00"
-  title: Merging Stripe and Zendesk Data for Business Insights
-  url: https://datahero.com/blog/2014/07/15/merging-stripe-zendesk-data-business-insights/
-  domain: datahero.com
-  image: ""
-- curated_id: 55c5bb3a869ccee3ff96862d1f8516cc
-  item_date: "2014-07-16 00:00:00"
-  title: AWS Support API Update - Attachment Creation and Lightweight Monitoring
-  url: https://aws.amazon.com/blogs/aws/aws-support-api-update/
-  domain: aws.amazon.com
-  image: ""
-- curated_id: 48f1733adff7dd439472410e3ed6bbe0
-  item_date: "2014-07-17 00:00:00"
-  title: 'Case study: Easydom'
-  url: http://blog.deskero.com/case-study-easydom/
-  domain: blog.deskero.com
-  image: ""
-- curated_id: bd119c87ddd5627341fb09c7eaca2ee4
-  item_date: "2014-07-18 00:00:00"
-  title: How We Use Open Source at Salesforce.com ? Part 1
-  url: https://developer.salesforce.com/blogs/engineering/2014/07/open-source-at-salesforce-com.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 1193b64d7dcc037b20a8dfef3771d4f0
-  item_date: "2014-07-18 00:00:00"
-  title: An Introduction to Open Source at Salesforce.com
-  url: https://developer.salesforce.com/blogs/engineering/2014/07/introduction-open-source-salesforce-com.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: f72aaa04c9d9ecf28385d589aa5c1243
-  item_date: "2014-07-22 00:00:00"
-  title: How To Deliver A Winning  Pitch At Hackathons
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/07/deliver-winning-pitch-hackathons.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 26d1ac62415f8d3015662514f102b465
-  item_date: "2014-07-22 00:00:00"
-  title: How We Use Open Source at Salesforce.com ? Part 1
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/07/use-open-source-salesforce-com-part-1.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 1a96333c62f3133dac5aad97978f06d3
-  item_date: "2014-07-23 00:00:00"
-  title: 'Open Source at Salesforce.com ? Part 2: How We Contribute'
-  url: https://developer.salesforce.com/blogs/engineering/2014/07/contribute-open-source-salesforce-com.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 3ae6d499794c2e8e6bb8f0d775e7da8d
-  item_date: "2014-07-29 00:00:00"
-  title: Salesforce.com?s New Open Source Releases ? Part 3
-  url: https://developer.salesforce.com/blogs/engineering/2014/07/salesforce-com-new-open-source-releases.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: d8b50babb42de5973e9c9983a3bbc0a4
-  item_date: "2014-07-29 00:00:00"
-  title: 'Case study: Despar Nordest'
-  url: http://blog.deskero.com/case-study-despar-nordest/
-  domain: blog.deskero.com
-  image: ""
-- curated_id: cccfbd461eb97ea818d6dbfa3a728055
-  item_date: "2014-07-31 00:00:00"
-  title: AWS Trusted Advisor For Everyone
-  url: https://aws.amazon.com/blogs/aws/trusted-advisor-console-basic/
-  domain: aws.amazon.com
-  image: ""
-- curated_id: 324cd797d1465ef5d9c9f2f91add03bc
-  item_date: "2014-07-31 00:00:00"
-  title: Building a Single Page App with AngularJS and the Salesforce REST API
-  url: https://developer.salesforce.com/blogs/developer-relations/2014/07/building-single-page-app-angularjs-salesforce-rest-api.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: 59839bb96aca2803615437b84ece429b
-  item_date: "2014-08-01 00:00:00"
-  title: Salesforce Partner Brings Mission Critical Information to Your Fingertips
-  url: https://developer.salesforce.com/blogs/isv/2014/08/draft-mcim-fulcrum.html
-  domain: developer.salesforce.com
-  image: ""
-- curated_id: fcc7a2ee878d8ee77d844b15276c9e6d
-  item_date: "2014-09-24 00:00:00"
-  title: Support, now 24x7
-  url: http://blog.filepicker.io/post/98324459747/support-now-24x7
-  domain: blog.filepicker.io
-  image: ""
 - curated_id: c793bfbf854c055631db28db2bcfc9f9
   item_date: "2015-01-23 00:00:00"
   title: 'Introducing @TwilioHelp: A Twitter Handle For Twilio Support'
@@ -694,17 +150,17 @@
   url: https://www.zendesk.com/blog/community-tip-browser-info/
   domain: www.zendesk.com
   image: ""
-- curated_id: 6bb7f07dbebda9017ceccc78e998a1ed
-  item_date: "2016-02-25 00:00:00"
-  title: 'The Ultimate Guide to Customer Support: A New Free Book From Zapier'
-  url: https://zapier.com/blog/customer-service-training/
-  domain: zapier.com
-  image: ""
 - curated_id: 00f10fe0e27f501500467d2bcbee58fc
   item_date: "2016-02-25 00:00:00"
   title: 'Freshdesk and GitHub: Tech your support to the next level'
   url: http://blog.freshdesk.com/github-integration/
   domain: blog.freshdesk.com
+  image: ""
+- curated_id: 6bb7f07dbebda9017ceccc78e998a1ed
+  item_date: "2016-02-25 00:00:00"
+  title: 'The Ultimate Guide to Customer Support: A New Free Book From Zapier'
+  url: https://zapier.com/blog/customer-service-training/
+  domain: zapier.com
   image: ""
 - curated_id: b878ea1af1a05d5b69cf1cd199fdffb2
   item_date: "2016-02-29 00:00:00"
@@ -828,6 +284,12 @@
   url: https://blog.algolia.com/search-your-kb-quickly-easily-algolia-zendesk/
   domain: blog.algolia.com
   image: ""
+- curated_id: 99387fae5f11871b4de3c7d2d9bb7397
+  item_date: "2016-05-18 00:00:00"
+  title: 'A new source of customer feedback: Google Play and Zendesk'
+  url: https://www.zendesk.com/blog/zendesk-google-play/
+  domain: www.zendesk.com
+  image: ""
 - curated_id: d3d953382a60320da15d59a27d8581f0
   item_date: "2016-05-18 00:00:00"
   title: Announcing Mobile Offline Support
@@ -839,12 +301,6 @@
   title: Come join the Firebase Slack community
   url: https://firebase.googleblog.com/2016/02/come-join-firebase-slack-community_13.html
   domain: firebase.googleblog.com
-  image: ""
-- curated_id: 99387fae5f11871b4de3c7d2d9bb7397
-  item_date: "2016-05-18 00:00:00"
-  title: 'A new source of customer feedback: Google Play and Zendesk'
-  url: https://www.zendesk.com/blog/zendesk-google-play/
-  domain: www.zendesk.com
   image: ""
 - curated_id: a25784fd4e625a47455c22108efbbc4e
   item_date: "2016-05-19 00:00:00"
@@ -915,12 +371,6 @@
   url: https://twitter.com/Zendesk/statuses/755435779116048384
   domain: twitter.com
   image: ""
-- curated_id: a00c793e8810c04d01781edeb54c1c5a
-  item_date: "2016-07-22 00:00:00"
-  title: How to manage your Slack channels
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: 8638038579edca29c4ae26b9517e69f4
   item_date: "2016-07-26 00:00:00"
   title: Four ways you can tap your customer support to deliver an amazing customer
@@ -983,17 +433,17 @@
   url: https://aws.amazon.com/premiumsupport/business-support/
   domain: aws.amazon.com
   image: ""
-- curated_id: c059c494734bdbff6f493e0fc9618754
-  item_date: "2016-09-14 00:00:00"
-  title: Crowdin Integration with Desk!
-  url: http://blog.crowdin.com/post/150401968825/crowdin-integration-with-desk#_=_
-  domain: blog.crowdin.com
-  image: ""
 - curated_id: db295604dba194518177d6b802cbeb7e
   item_date: "2016-09-14 00:00:00"
   title: 'These Four APIs Will Help You Personalize Customer Service '
   url: http://www.programmableweb.com/news/these-four-apis-will-help-you-personalize-customer-service/sponsored-content/2016/09/14
   domain: www.programmableweb.com
+  image: ""
+- curated_id: c059c494734bdbff6f493e0fc9618754
+  item_date: "2016-09-14 00:00:00"
+  title: Crowdin Integration with Desk!
+  url: http://blog.crowdin.com/post/150401968825/crowdin-integration-with-desk#_=_
+  domain: blog.crowdin.com
   image: ""
 - curated_id: a9d0f33d76af3a232de61cb4128d3d8b
   item_date: "2016-09-22 00:00:00"
@@ -1099,16 +549,222 @@
   url: https://www.zendesk.com/blog/zendesk-explore-your-new-home-for-actionable-customer-data/
   domain: www.zendesk.com
   image: ""
+- curated_id: f8fb120d9658dd705c3b4d7b0f84ff1b
+  item_date: "2016-11-09 00:00:00"
+  title: Fend off ?digital disrupters?  with customer empathy
+  url: https://www.zendesk.com/blog/gartner-digital-disrupters-customer-empathy/
+  domain: www.zendesk.com
+  image: ""
 - curated_id: 19ff92cfcb899e4a88569170f490d4ca
   item_date: "2016-11-09 00:00:00"
   title: The Developer Feedback Loop
   url: https://dzone.com/articles/the-developer-feedback-loop
   domain: dzone.com
   image: ""
-- curated_id: f8fb120d9658dd705c3b4d7b0f84ff1b
-  item_date: "2016-11-09 00:00:00"
-  title: Fend off ?digital disrupters?  with customer empathy
-  url: https://www.zendesk.com/blog/gartner-digital-disrupters-customer-empathy/
+- curated_id: 8c6015856b214efa4b293d3f6ed40206
+  item_date: "2016-12-14 00:00:00"
+  title: Incorporating audience feedback at scale
+  url: http://www.niemanlab.org/2016/12/incorporating-audience-feedback-at-scale/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: 1e9ace473f6ea7e86481f86b631808be
+  item_date: "2016-12-14 00:00:00"
+  title: Recent questions from the community
+  url: https://blog.soundcloud.com/2016/12/14/recent-questions-community/
+  domain: blog.soundcloud.com
+  image: ""
+- curated_id: 960f8230dc266f403dffcf4d8c81168d
+  item_date: "2016-12-14 00:00:00"
+  title: 'School of Support: Taking the Right Tone'
+  url: https://www.helpscout.net/blog/talking-to-customers-tone/
+  domain: www.helpscout.net
+  image: ""
+- curated_id: f240732fee68ac4da353310579406ee7
+  item_date: "2016-12-15 00:00:00"
+  title: 'New: Docker Images for Intercom SDKs'
+  url: https://medium.com/intercom-developers/new-docker-images-for-intercom-sdks-835810cc4ba1
+  domain: medium.com
+  image: ""
+- curated_id: 414f57e81f9fdd437b30185ce1437d44
+  item_date: "2016-12-16 00:00:00"
+  title: The conversational commerce hype is real
+  url: https://blog.intercom.com/conversational-commerce-hype-real/
+  domain: blog.intercom.com
+  image: ""
+- curated_id: c6166985c9d4d24880272b0395f519fd
+  item_date: "2016-12-17 09:01:37"
+  title: 'New: Docker Images for Intercom SDKs'
+  url: https://medium.com/intercom-developers/new-docker-images-for-intercom-sdks-835810cc4ba1#.tsi8bkd1m
+  domain: medium.com
+  image: ""
+- curated_id: b995dfe07379f4a9328034ab2c609971
+  item_date: "2016-12-30 00:00:00"
+  title: Suggestions for improving Twitter
+  url: http://boingboing.net/2016/12/30/suggestions-for-improving-twit.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 8a86ac374dffe5b4656b9226cdeb4dae
+  item_date: "2017-01-05 00:00:00"
+  title: Announcing the Duo Help Center Ticket Portal
+  url: https://duo.com/blog/announcing-the-duo-help-center-ticket-portal
+  domain: duo.com
+  image: ""
+- curated_id: b1633f182c8262fdd60c29f510e94910
+  item_date: "2017-01-11 00:00:00"
+  title: "Managing change with Slack\u2019s Customer Success team"
+  url: https://slackhq.com/managing-change-with-slacks-customer-success-team-c006a0f18ed3
+  domain: slackhq.com
+  image: ""
+- curated_id: 64b7eefe3bbf3af32989cf5b173bf630
+  item_date: "2017-01-19 00:00:00"
+  title: 'Solutions Engineers: Advocating for the Customer'
+  url: https://blog.algolia.com/solutions-engineers-advocating-for-the-customer/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 30ff6b03add650dbaab63647439a4a81
+  item_date: "2017-01-23 00:00:00"
+  title: Customize your chat widget with the Web SDK
+  url: https://www.zendesk.com/blog/customize-chat-widget-web-sdk/
   domain: www.zendesk.com
+  image: ""
+- curated_id: c2159ae04d7cfe1b056bff673edb70e7
+  item_date: "2017-02-02 00:00:00"
+  title: "Introducing Hull\u2019s Intercom integration"
+  url: https://medium.com/intercom-developers/introducing-hulls-intercom-integration-afed1afe0cf7
+  domain: medium.com
+  image: ""
+- curated_id: b9c1269efab78c563dbd5925a0ed6f7d
+  item_date: "2017-02-07 00:00:00"
+  title: New integrations for you to discover
+  url: https://medium.com/intercom-developers/new-integrations-for-you-to-discover-6fc8b7694e23
+  domain: medium.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-02-08 08:08:13"
+  title: Leveraging API Documentation for Customer Support
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 83a887027abaf5c58faadb0d6536fa32
+  item_date: "2017-02-08 08:08:13"
+  title: Leveraging API Documentation for Customer Support
+  url: https://blog.hitchhq.com/leveraging-api-documentation-for-customer-support-9277c79bf2f9#.aluofcr6x
+  domain: blog.hitchhq.com
+  image: ""
+- curated_id: c4d77a834952abc38ba68a7194f48b34
+  item_date: "2017-02-09 00:00:00"
+  title: "Intercom\u2019s Jeff Gardner on keeping customer support personal at scale"
+  url: https://blog.intercom.com/intercoms-jeff-gardner-on-keeping-customer-support-personal/
+  domain: blog.intercom.com
+  image: ""
+- curated_id: addd4753d336b71f32efdbef6177445b
+  item_date: "2017-02-15 00:00:00"
+  title: How efficient customer service affects your bottom line
+  url: https://www.zendesk.com/blog/efficient-customer-service-affects-bottom-line/
+  domain: www.zendesk.com
+  image: ""
+- curated_id: 130bd3f2644b61a7d14f7773ce1b4618
+  item_date: "2017-02-20 00:00:00"
+  title: 'Text support: get it right the first time'
+  url: https://www.zendesk.com/blog/text-support-get-right-first-time/
+  domain: www.zendesk.com
+  image: ""
+- curated_id: 2060d48d15e0f2c1a0092bf3b2eea01d
+  item_date: "2017-02-22 00:00:00"
+  title: Customer service on Twitter is about to get more human
+  url: https://thenextweb.com/insider/2017/02/22/customer-service-twitter-get-human/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 84a162b7059ddfb00e1cd8e5f5114344
+  item_date: "2017-02-23 00:00:00"
+  title: New addresses, new community initiatives
+  url: https://www.zendesk.com/blog/new-addresses-new-community-initiatives/
+  domain: www.zendesk.com
+  image: ""
+- curated_id: 93db51db9d12d5b402df24ee058d5744
+  item_date: "2017-02-23 10:36:00"
+  title: 'API update: Scroll API, Segments and rate limits'
+  url: https://medium.com/intercom-developers/api-update-scroll-api-segments-and-rate-limits-77b14c6f946b#.47lt4a7i7
+  domain: medium.com
+  image: ""
+- curated_id: a83d221d1281582843c48a583462b506
+  item_date: "2017-03-06 00:00:00"
+  title: Announcing the HyperTrack Community
+  url: https://blog.hypertrack.com/2017/03/06/announcing-the-hypertrack-community/
+  domain: blog.hypertrack.com
+  image: ""
+- curated_id: 4fa4810affced9ebc9d58a151d1003c5
+  item_date: "2017-03-14 00:00:00"
+  title: Introducing the Intercom integration for Microsoft Teams
+  url: https://blog.intercom.com/introducing-the-intercom-integration-for-microsoft-teams/
+  domain: blog.intercom.com
+  image: ""
+- curated_id: 5e8a3aea3d60354d8803377be13162db
+  item_date: "2017-03-16 03:55:29"
+  title: "How we managed to make our @Zendesk integration support 30 languages \U0001F30D"
+  url: https://blog.algolia.com/how-we-tackled-internationalization-in-our-zendesk-integration/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 87bb5213f2485dca6c2fc81bc0cadf77
+  item_date: "2017-03-17 00:00:00"
+  title: "Breaking the glass \u2013 a way forward for Google Cloud"
+  url: http://redmonk.com/jgovernor/2017/03/17/breaking-the-glass-a-way-forward-for-google-cloud/
+  domain: redmonk.com
+  image: ""
+- curated_id: f4b04f3a3b9f2e258d7bab0241a4af4c
+  item_date: "2017-04-11 00:00:00"
+  title: Keeping information flowing as you grow
+  url: https://blog.intercom.com/keeping-information-flowing-as-you-grow/
+  domain: blog.intercom.com
+  image: ""
+- curated_id: 0d22be8f7ffced65ce1fb85598fd33d8
+  item_date: "2017-04-14 00:00:00"
+  title: Join Backendless on Slack
+  url: https://backendless.com/join-backendless-on-slack/
+  domain: backendless.com
+  image: ""
+- curated_id: 09126edb3c2284c26e23e5999689d797
+  item_date: "2017-04-20 15:19:49"
+  title: "How I fail developers \u2013 Taylor Singletary \u2013 Medium"
+  url: https://medium.com/@episod/how-i-fail-developers-74580c13d5a4
+  domain: medium.com
+  image: ""
+- curated_id: 5eea56f0f83e358ec34f9f3e0d9a211b
+  item_date: "2017-04-28 00:00:00"
+  title: "Codeship\u2019s Slack Integration"
+  url: https://blog.codeship.com/codeships-slack-integration/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 34b80cea0876ef9f42ac733556b67363
+  item_date: "2017-05-03 00:00:00"
+  title: Introducing the new Cloudflare Community Forum
+  url: https://blog.cloudflare.com/cloudflare-community/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 791ab087ebe21be6cda6a2363ae213fe
+  item_date: "2017-05-03 00:00:00"
+  title: Google Cloud Launcher adds more container support
+  url: http://cloudplatform.googleblog.com/2017/05/Google-Cloud-Launcher-adds-more-container-support.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: e7b6a475016a4a4355a40a853a061619
+  item_date: "2017-05-04 00:00:00"
+  title: 'Building for Builders: Stripe#039;s 8 Tips for Designing APIs and Supporting
+    Developers'
+  url: https://www.programmableweb.com/news/building-builders-stripes-8-tips-designing-apis-and-supporting-developers/analysis/2017/05/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0d1f2d7a93f93a28d91bdda39fd420a3
+  item_date: "2017-05-05 00:00:00"
+  title: 3 ways to achieve better self-service
+  url: https://www.zendesk.com/blog/3-ways-achieve-better-self-service/
+  domain: www.zendesk.com
+  image: ""
+- curated_id: 0ef0042e11142e4a34136d2d1b07faa1
+  item_date: "2017-05-05 15:27:36"
+  title: 'Tweet: We#039;re hosting API Office Hours on Monday, May 8th at 1pm PST!
+    You can register here: https://t.co/m6ofDLwOOp'
+  url: https://twitter.com/BoxPlatform/statuses/860622032085676032
+  domain: twitter.com
   image: ""
 ...
