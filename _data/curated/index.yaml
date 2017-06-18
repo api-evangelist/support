@@ -1,7 +1,7 @@
 ---
 - curated_id: c793bfbf854c055631db28db2bcfc9f9
   item_date: "2015-01-23 00:00:00"
-  title: 'Introducing @TwilioHelp: A Twitter Handle For Twilio Support'
+  title: 'Introducing @TwilioHelp A Twitter Handle For Twilio Support'
   url: https://www.twilio.com/blog/2015/01/twilio-support-twitter.html
   domain: www.twilio.com
   image: ""
@@ -19,7 +19,7 @@
   image: ""
 - curated_id: 220028ee3fe465280091c2b005c858e8
   item_date: "2015-03-24 00:00:00"
-  title: 'Tickets to Issues: Zendesk and JIRA API Integrations'
+  title: 'Tickets to Issues Zendesk and JIRA API Integrations'
   url: http://blog.cloud-elements.com/tickets-to-issues-zendesk-and-jira-api-integrations-2
   domain: blog.cloud-elements.com
   image: ""
@@ -359,16 +359,9 @@
   image: ""
 - curated_id: 0fd8165aef504ffe8c8bdc77849df8e3
   item_date: "2016-07-19 09:11:07"
-  title: 'Tweet: RT @BetterCloud: .@Zendesk and BetterCloud: Taking a Unique Approach
+  title: 'Tweet: RT @BetterCloud .@Zendesk and BetterCloud: Taking a Unique Approach
     to Hackathons https://t.co/EmyQpo7wl2 https://t.co/q4QrdrsAmD'
   url: https://twitter.com/BetterCloud/status/755430777719033856
-  domain: twitter.com
-  image: ""
-- curated_id: 50d3e6574879f97a9cb2fed1b359fc26
-  item_date: "2016-07-19 09:14:59"
-  title: 'Tweet: #Custserv should be about more than dealing with angry people. It
-    should prevent them from becoming angry at all. https://t.co/UjleEstskv'
-  url: https://twitter.com/Zendesk/statuses/755435779116048384
   domain: twitter.com
   image: ""
 - curated_id: 8638038579edca29c4ae26b9517e69f4
@@ -413,13 +406,6 @@
   title: Take Customer Support on Social to the Next Level by Being Proactive
   url: https://blog.hootsuite.com/proactive-social-customer-support/
   domain: blog.hootsuite.com
-  image: ""
-- curated_id: b36303a9b535e80121cd2dc6324c2026
-  item_date: "2016-08-30 06:11:34"
-  title: 'Tweet: We are investigating an issue with our test results datastore. Please
-    follow @RunscopeStatus or https://t.co/w6LnMxCcoJ for updates.'
-  url: https://twitter.com/Runscope/statuses/770609910308478976
-  domain: twitter.com
   image: ""
 - curated_id: a1734895be80d2d92dfbbac9437bfc4f
   item_date: "2016-08-31 00:00:00"
@@ -472,7 +458,7 @@
 - curated_id: 455704a35eb757d0714f07c679734b61
   item_date: "2016-10-06 13:00:10"
   title: 'Tweet: Route customer support tickets to an agent that speaks their language
-    using Twilio SMS + the @IBMWatson Add-onhellip; https://t.co/0UvMtLffST'
+    using Twilio SMS + the @IBMWatson Add-on https://t.co/0UvMtLffST'
   url: https://twitter.com/twilio/statuses/784121089773359104
   domain: twitter.com
   image: ""
