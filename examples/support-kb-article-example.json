@@ -1,0 +1,16 @@
+{
+  "id": "KB-5021",
+  "title": "How to reset your password",
+  "slug": "how-to-reset-your-password",
+  "body": "<h2>Reset your password</h2><p>If you've forgotten your password, follow these steps to regain access to your account...</p>",
+  "summary": "Step-by-step guide to resetting your account password from the sign-in screen.",
+  "category_id": "CAT-account",
+  "locale": "en-US",
+  "status": "published",
+  "visibility": "public",
+  "tags": ["password", "account", "security"],
+  "author_id": "AGT-17",
+  "view_count": 1240,
+  "created_at": "2026-02-01T10:00:00Z",
+  "updated_at": "2026-05-10T09:30:00Z"
+}

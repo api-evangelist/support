@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/support/refs/heads/main/json-schema/support-ticket-schema.json",
+  "title": "SupportTicket",
+  "description": "Represents a customer support ticket, case, or conversation managed by a help desk or customer service platform.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier of the ticket in the support platform.",
+      "example": "TCKT-10293"
+    },
+    "subject": {
+      "type": "string",
+      "description": "Short summary or subject line of the ticket.",
+      "example": "Unable to reset my password"
+    },
+    "description": {
+      "type": "string",
+      "description": "Full description or body of the original customer request.",
+      "example": "I clicked the password reset link but never received the confirmation email."
+    },
+    "status": {
+      "type": "string",
+      "description": "Current workflow state of the ticket.",
+      "enum": ["new", "open", "pending", "on_hold", "solved", "closed"],
+      "example": "open"
+    },
+    "priority": {
+      "type": "string",
+      "description": "Priority level assigned to the ticket.",
+      "enum": ["low", "normal", "high", "urgent"],
+      "example": "normal"
+    },
+    "channel": {
+      "type": "string",
+      "description": "Channel through which the ticket was created.",
+      "enum": ["email", "chat", "web_form", "phone", "social", "sms", "api", "messaging"],
+      "example": "email"
+    },
+    "requester": {
+      "type": "object",
+      "description": "Customer or contact who submitted the ticket.",
+      "properties": {
+        "id": { "type": "string", "example": "C-4521" },
+        "name": { "type": "string", "example": "Jane Doe" },
+        "email": { "type": "string", "format": "email", "example": "jane@example.com" }
+      },
+      "required": ["email"]
+    },
+    "assignee_id": {
+      "type": "string",
+      "description": "Identifier of the agent currently assigned to the ticket.",
+      "example": "AGT-17"
+    },
+    "group_id": {
+      "type": "string",
+      "description": "Identifier of the team or group queue handling the ticket.",
+      "example": "GRP-billing"
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags or labels applied to the ticket for categorization and reporting.",
+      "items": { "type": "string" },
+      "example": ["billing", "password-reset"]
+    },
+    "sla_breached": {
+      "type": "boolean",
+      "description": "Whether the ticket has breached its SLA target.",
+      "example": false
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the ticket was created.",
+      "example": "2026-05-19T14:23:00Z"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp of the last update to the ticket.",
+      "example": "2026-05-19T15:02:00Z"
+    }
+  },
+  "required": ["subject", "status", "requester"]
+}

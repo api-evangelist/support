@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/support/refs/heads/main/json-structure/support-kb-article-structure.json",
+  "name": "SupportKnowledgeBaseArticle",
+  "description": "Represents a knowledge base or help center article used by support teams and customers for self-service.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier of the knowledge base article.",
+      "example": "KB-5021"
+    },
+    "title": {
+      "type": "string",
+      "description": "Title of the article shown in the help center.",
+      "example": "How to reset your password"
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-safe slug used to address the article.",
+      "example": "how-to-reset-your-password"
+    },
+    "body": {
+      "type": "string",
+      "description": "Full HTML or Markdown body of the article.",
+      "example": "<p>Follow these steps to reset your password...</p>"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Short summary used in listings and search results.",
+      "example": "Step-by-step guide to resetting your account password."
+    },
+    "category_id": {
+      "type": "string",
+      "description": "Identifier of the category or section the article belongs to.",
+      "example": "CAT-account"
+    },
+    "locale": {
+      "type": "string",
+      "description": "Language locale of the article.",
+      "example": "en-US"
+    },
+    "status": {
+      "type": "string",
+      "description": "Publication state of the article.",
+      "enum": [
+        "draft",
+        "review",
+        "published",
+        "archived"
+      ],
+      "example": "published"
+    },
+    "visibility": {
+      "type": "string",
+      "description": "Audience visibility of the article.",
+      "enum": [
+        "public",
+        "internal",
+        "logged_in",
+        "restricted"
+      ],
+      "example": "public"
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags applied to the article for search and grouping.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "password",
+        "account",
+        "security"
+      ]
+    },
+    "author_id": {
+      "type": "string",
+      "description": "Identifier of the author of the article.",
+      "example": "AGT-17"
+    },
+    "view_count": {
+      "type": "int32",
+      "description": "Number of times the article has been viewed.",
+      "example": 1240
+    },
+    "created_at": {
+      "type": "datetime",
+      "description": "Timestamp when the article was created.",
+      "example": "2026-02-01T10:00:00Z"
+    },
+    "updated_at": {
+      "type": "datetime",
+      "description": "Timestamp of the last update to the article.",
+      "example": "2026-05-10T09:30:00Z"
+    }
+  },
+  "required": [
+    "title",
+    "body",
+    "status"
+  ]
+}

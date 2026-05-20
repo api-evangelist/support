@@ -1,0 +1,381 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Support
+  description: Vocabulary for the customer support topic, covering help desk, ticketing, knowledge base, live chat, and customer service platforms.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Zendesk Support API
+      namespace: zendesk
+      status: active
+    - name: Intercom API
+      namespace: intercom
+      status: active
+    - name: Freshdesk API
+      namespace: freshdesk
+      status: active
+    - name: Help Scout Mailbox API
+      namespace: helpscout
+      status: active
+    - name: Salesforce Service Cloud API
+      namespace: salesforce-service-cloud
+      status: active
+    - name: ServiceNow Customer Service API
+      namespace: servicenow
+      status: active
+    - name: Atlassian Statuspage API
+      namespace: statuspage
+      status: active
+
+  resources:
+    - name: tickets
+      description: Customer support tickets, cases, or conversations representing each inquiry
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - assign
+        - solve
+        - close
+        - merge
+    - name: conversations
+      description: Threaded conversations between customers and support agents across channels
+      actions:
+        - list
+        - get
+        - create
+        - reply
+        - assign
+        - close
+    - name: contacts
+      description: Customer contacts, end users, or requesters
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - merge
+        - delete
+    - name: agents
+      description: Support agents and users who work on tickets
+      actions:
+        - list
+        - get
+        - create
+        - update
+    - name: groups
+      description: Teams or queues of agents handling specific ticket categories
+      actions:
+        - list
+        - get
+        - create
+        - update
+    - name: kb-articles
+      description: Knowledge base and help center articles for self-service
+      actions:
+        - list
+        - get
+        - search
+        - create
+        - update
+        - publish
+        - archive
+    - name: macros
+      description: Reusable canned responses and bulk actions agents can apply to tickets
+      actions:
+        - list
+        - get
+        - create
+        - apply
+    - name: sla-policies
+      description: Service level agreement policies governing response and resolution targets
+      actions:
+        - list
+        - get
+        - create
+        - update
+    - name: status-incidents
+      description: Public status page incidents and component status updates
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - resolve
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: search
+      description: Search for resources by criteria
+      httpMethod: GET
+      pattern: query
+    - name: create
+      description: Create a new resource
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: assign
+      description: Assign a ticket or conversation to an agent or group
+      httpMethod: PUT
+      pattern: write
+    - name: reply
+      description: Add a public or internal reply to a conversation
+      httpMethod: POST
+      pattern: write
+    - name: solve
+      description: Mark a ticket as solved
+      httpMethod: PUT
+      pattern: write
+    - name: close
+      description: Close a ticket or conversation
+      httpMethod: PUT
+      pattern: write
+    - name: merge
+      description: Merge two tickets or contacts into one
+      httpMethod: POST
+      pattern: write
+    - name: publish
+      description: Publish a knowledge base article to the help center
+      httpMethod: PUT
+      pattern: write
+    - name: archive
+      description: Archive a knowledge base article or other resource
+      httpMethod: PUT
+      pattern: write
+    - name: apply
+      description: Apply a macro or automation to a ticket
+      httpMethod: POST
+      pattern: write
+    - name: resolve
+      description: Resolve a status page incident
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Remove a resource
+      httpMethod: DELETE
+      pattern: destructive
+
+  schemas:
+    core:
+      - name: SupportTicket
+        description: A customer support ticket, case, or conversation
+        properties:
+          - id
+          - subject
+          - description
+          - status
+          - priority
+          - channel
+          - requester
+          - assignee_id
+          - group_id
+          - tags
+          - sla_breached
+          - created_at
+          - updated_at
+      - name: SupportKnowledgeBaseArticle
+        description: A knowledge base or help center article
+        properties:
+          - id
+          - title
+          - slug
+          - body
+          - summary
+          - category_id
+          - locale
+          - status
+          - visibility
+          - tags
+          - author_id
+          - view_count
+          - created_at
+          - updated_at
+
+  enums:
+    ticket_statuses:
+      - new
+      - open
+      - pending
+      - on_hold
+      - solved
+      - closed
+    ticket_priorities:
+      - low
+      - normal
+      - high
+      - urgent
+    ticket_channels:
+      - email
+      - chat
+      - web_form
+      - phone
+      - social
+      - sms
+      - api
+      - messaging
+    article_statuses:
+      - draft
+      - review
+      - published
+      - archived
+    article_visibility:
+      - public
+      - internal
+      - logged_in
+      - restricted
+
+capability:
+  workflows:
+    - name: Omnichannel Ticket Routing
+      description: Ingest customer inquiries from email, chat, and social channels, then route into agent queues based on tags, SLA, and skills
+      apis:
+        - zendesk
+        - freshdesk
+        - front
+      personas:
+        - Support Agent
+        - Support Operations Lead
+      domains:
+        - Help Desk
+    - name: In-Product Live Chat
+      description: Embed a live chat widget in web and mobile apps, route conversations to available agents, and persist transcripts
+      apis:
+        - intercom
+        - crisp
+        - livechat
+      personas:
+        - Support Agent
+        - Product Engineer
+      domains:
+        - Live Chat
+    - name: Knowledge Base Publishing
+      description: Author, review, translate, and publish help articles that power public help centers and AI deflection
+      apis:
+        - zendesk
+        - helpscout
+        - document360
+      personas:
+        - Knowledge Manager
+        - Support Agent
+      domains:
+        - Knowledge Base
+    - name: Incident Status Communication
+      description: Publish service status, ongoing incidents, and scheduled maintenance to customers via a public status page
+      apis:
+        - statuspage
+      personas:
+        - Incident Commander
+        - Support Operations Lead
+      domains:
+        - Status Communication
+    - name: Enterprise Case Management
+      description: Manage customer cases at enterprise scale alongside CRM, field service, and back-office systems
+      apis:
+        - salesforce-service-cloud
+        - servicenow
+        - microsoft-dynamics-365
+      personas:
+        - Support Agent
+        - Support Operations Lead
+      domains:
+        - Help Desk
+
+  personas:
+    - id: support-agent
+      name: Support Agent
+      description: Front-line agents who work tickets, conversations, and live chats with customers
+      workflows:
+        - Omnichannel Ticket Routing
+        - In-Product Live Chat
+        - Enterprise Case Management
+    - id: support-operations-lead
+      name: Support Operations Lead
+      description: Managers who configure SLA policies, routing rules, macros, and reporting across the support organization
+      workflows:
+        - Omnichannel Ticket Routing
+        - Incident Status Communication
+        - Enterprise Case Management
+    - id: knowledge-manager
+      name: Knowledge Manager
+      description: Owners of the help center who curate, publish, and measure self-service content
+      workflows:
+        - Knowledge Base Publishing
+    - id: incident-commander
+      name: Incident Commander
+      description: Operators who coordinate response to service incidents and communicate status externally
+      workflows:
+        - Incident Status Communication
+    - id: product-engineer
+      name: Product Engineer
+      description: Engineers who embed chat and support widgets into product surfaces and integrate support data into product analytics
+      workflows:
+        - In-Product Live Chat
+
+  domains:
+    - name: Help Desk
+      description: Ticketing and case management platforms used to handle customer inquiries at scale
+    - name: Live Chat
+      description: Real-time messaging platforms embedded in web and mobile products for customer conversations
+    - name: Knowledge Base
+      description: Help center and self-service article platforms for customer and internal documentation
+    - name: Status Communication
+      description: Public status pages and incident communication platforms
+
+crossReference:
+  - resource: tickets
+    operations:
+      - list
+      - create
+      - assign
+      - solve
+    workflows:
+      - Omnichannel Ticket Routing
+      - Enterprise Case Management
+    personas:
+      - Support Agent
+      - Support Operations Lead
+  - resource: conversations
+    operations:
+      - create
+      - reply
+      - close
+    workflows:
+      - In-Product Live Chat
+    personas:
+      - Support Agent
+      - Product Engineer
+  - resource: kb-articles
+    operations:
+      - create
+      - update
+      - publish
+      - search
+    workflows:
+      - Knowledge Base Publishing
+    personas:
+      - Knowledge Manager
+      - Support Agent
+  - resource: status-incidents
+    operations:
+      - create
+      - update
+      - resolve
+    workflows:
+      - Incident Status Communication
+    personas:
+      - Incident Commander
+      - Support Operations Lead

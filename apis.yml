@@ -1,0 +1,141 @@
+aid: support
+name: Support
+description: >-
+  An index and topic collection covering customer support, help desk, ticketing, knowledge base, and live chat APIs. Customer support platforms power the
+  interfaces and back-office systems that companies use to receive, route, resolve, and learn from customer inquiries across email, chat, phone, social,
+  and self-service channels. This collection includes traditional help desk and ticketing suites like Zendesk, Freshdesk, and Help Scout, conversational
+  customer support platforms like Intercom and Front, enterprise service clouds from Salesforce, ServiceNow, and Microsoft, knowledge base and self-service
+  systems, live chat and messaging platforms like Crisp, LiveChat, and Olark, and modern API-first support tools like Plain and Chatwoot.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Customer Support
+- Help Desk
+- Ticketing
+- Knowledge Base
+- Live Chat
+- Customer Service
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/support/refs/heads/main/apis.yml
+created: '2026-05-19'
+modified: '2026-05-19'
+specificationVersion: '0.19'
+apis: []
+network:
+- name: Zendesk
+  url: https://raw.githubusercontent.com/api-evangelist/zendesk/refs/heads/main/apis.yml
+- name: Intercom
+  url: https://raw.githubusercontent.com/api-evangelist/intercom/refs/heads/main/apis.yml
+- name: Freshdesk
+  url: https://raw.githubusercontent.com/api-evangelist/freshdesk/refs/heads/main/apis.yml
+- name: Freshworks
+  url: https://raw.githubusercontent.com/api-evangelist/freshworks/refs/heads/main/apis.yml
+- name: Freshchat
+  url: https://raw.githubusercontent.com/api-evangelist/freshchat/refs/heads/main/apis.yml
+- name: Help Scout
+  url: https://raw.githubusercontent.com/api-evangelist/helpscout/refs/heads/main/apis.yml
+- name: HubSpot
+  url: https://raw.githubusercontent.com/api-evangelist/hubspot/refs/heads/main/apis.yml
+- name: Salesforce Service Cloud
+  url: https://raw.githubusercontent.com/api-evangelist/salesforce-service-cloud/refs/heads/main/apis.yml
+- name: ServiceNow
+  url: https://raw.githubusercontent.com/api-evangelist/servicenow/refs/heads/main/apis.yml
+- name: Atlassian Jira
+  url: https://raw.githubusercontent.com/api-evangelist/atlassian-jira/refs/heads/main/apis.yml
+- name: Statuspage
+  url: https://raw.githubusercontent.com/api-evangelist/statuspage/refs/heads/main/apis.yml
+- name: Front
+  url: https://raw.githubusercontent.com/api-evangelist/front/refs/heads/main/apis.yml
+- name: Kustomer
+  url: https://raw.githubusercontent.com/api-evangelist/kustomer/refs/heads/main/apis.yml
+- name: Gorgias
+  url: https://raw.githubusercontent.com/api-evangelist/gorgias/refs/heads/main/apis.yml
+- name: Groove
+  url: https://raw.githubusercontent.com/api-evangelist/groove/refs/heads/main/apis.yml
+- name: Crisp
+  url: https://raw.githubusercontent.com/api-evangelist/crisp/refs/heads/main/apis.yml
+- name: LiveChat
+  url: https://raw.githubusercontent.com/api-evangelist/livechat/refs/heads/main/apis.yml
+- name: Olark
+  url: https://raw.githubusercontent.com/api-evangelist/olark/refs/heads/main/apis.yml
+- name: Zoho Desk
+  url: https://raw.githubusercontent.com/api-evangelist/zoho-desk/refs/heads/main/apis.yml
+- name: Microsoft Dynamics 365
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-dynamics-365/refs/heads/main/apis.yml
+- name: Spiceworks
+  url: https://raw.githubusercontent.com/api-evangelist/spiceworks/refs/heads/main/apis.yml
+- name: ServiceDesk Plus
+  url: https://raw.githubusercontent.com/api-evangelist/servicedesk-plus/refs/heads/main/apis.yml
+- name: SysAid
+  url: https://raw.githubusercontent.com/api-evangelist/sysaid/refs/heads/main/apis.yml
+- name: TOPdesk
+  url: https://raw.githubusercontent.com/api-evangelist/topdesk/refs/heads/main/apis.yml
+- name: LivePerson
+  url: https://raw.githubusercontent.com/api-evangelist/liveperson/refs/heads/main/apis.yml
+- name: Document360
+  url: https://raw.githubusercontent.com/api-evangelist/document360/refs/heads/main/apis.yml
+- name: Archbee
+  url: https://raw.githubusercontent.com/api-evangelist/archbee/refs/heads/main/apis.yml
+- name: DeveloperHub
+  url: https://raw.githubusercontent.com/api-evangelist/developerhub/refs/heads/main/apis.yml
+common:
+- type: Portal
+  url: https://apievangelist.com
+- type: GitHubOrganization
+  url: https://github.com/api-evangelist
+- type: Features
+  data:
+  - name: Ticket and Case Management
+    description: Support APIs expose create, read, update, and resolve operations on tickets, cases, or conversations representing each customer inquiry, with status, priority, and assignment workflows.
+  - name: Omnichannel Conversation Threads
+    description: Modern support platforms unify email, chat, social, SMS, and voice into a single conversation thread per customer, exposed through APIs that abstract the underlying channel.
+  - name: Knowledge Base and Self-Service
+    description: Knowledge base APIs let teams publish, version, and search help articles that power customer self-service portals, in-product help, and AI deflection agents.
+  - name: SLA and Routing Policies
+    description: Service-level agreements, business hours, queues, and skills-based routing rules are exposed as configurable API resources that drive how tickets flow through support teams.
+  - name: Contact and Organization Records
+    description: Support APIs maintain customer contact and organization records that link conversations, ticket history, custom attributes, and integrations to CRM systems.
+  - name: Macros, Triggers, and Automations
+    description: Reusable macros, event-driven triggers, and workflow automations are exposed as APIs so teams can codify common responses and resolution patterns.
+  - name: Live Chat and Messaging
+    description: Live chat APIs power real-time conversations between customers and agents through web, mobile, and messaging channel widgets with presence, typing, and file sharing primitives.
+  - name: Reporting and CSAT
+    description: Reporting APIs expose ticket volume, response and resolution times, agent productivity, and customer satisfaction (CSAT) scores for dashboards and warehouse export.
+- type: UseCases
+  data:
+  - name: Omnichannel Help Desk
+    description: Companies use platforms like Zendesk, Freshdesk, and Help Scout to route customer email, chat, and social inquiries into a single ticket queue worked by a shared support team.
+  - name: In-Product Messaging and Customer Support
+    description: Platforms like Intercom and Crisp embed conversational support widgets directly in web and mobile products, blending live chat, chatbots, and help articles.
+  - name: Enterprise Customer Service
+    description: Salesforce Service Cloud, ServiceNow, and Microsoft Dynamics 365 Customer Service handle enterprise-scale case management, integrated with CRM, field service, and back-office systems.
+  - name: Status Communication and Incident Updates
+    description: Atlassian Statuspage and similar tools publish service status, incident timelines, and scheduled maintenance through APIs and customer-facing status pages.
+  - name: Self-Service Knowledge Bases
+    description: Document360, Archbee, and DeveloperHub power public and private help centers, customer documentation portals, and AI-searchable knowledge bases.
+  - name: E-commerce and Subscription Support
+    description: Gorgias, Kustomer, and Zendesk integrate deeply with Shopify, Stripe, and other commerce platforms so support agents see orders, refunds, and subscription state alongside each ticket.
+  - name: Internal IT Service Desk
+    description: ServiceDesk Plus, SysAid, TOPdesk, and Spiceworks deliver IT service management (ITSM) workflows for employees raising IT, HR, and facilities requests.
+- type: Integrations
+  data:
+  - name: Zendesk
+    description: Market-leading customer support and ticketing suite with deep APIs for tickets, users, organizations, macros, triggers, and help center articles.
+  - name: Intercom
+    description: Conversational customer engagement platform with APIs for conversations, contacts, articles, and AI-powered Fin support automation.
+  - name: Freshdesk
+    description: Freshworks' omnichannel customer support and ticketing platform with APIs for tickets, contacts, agents, and knowledge base solutions.
+  - name: Help Scout
+    description: Shared inbox and help desk platform designed for small and mid-market teams, with APIs for conversations, customers, mailboxes, and Docs articles.
+  - name: Salesforce Service Cloud
+    description: Enterprise customer service platform built on the Salesforce CRM, with REST and SOAP APIs for cases, knowledge articles, entitlements, and omnichannel routing.
+  - name: ServiceNow
+    description: Enterprise service management platform with APIs covering customer service management, incident, problem, change, and knowledge management.
+  - name: Front
+    description: Shared inbox and customer operations platform with APIs for conversations, contacts, comments, and team collaboration on customer email.
+  - name: Statuspage
+    description: Atlassian's incident communication platform with APIs to publish component status, incidents, scheduled maintenance, and subscriber notifications.
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+humanURL: https://apievangelist.com

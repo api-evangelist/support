@@ -1,0 +1,90 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "support": "https://api-evangelist.github.io/support/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+
+    "SupportTicket": "support:SupportTicket",
+    "SupportKnowledgeBaseArticle": "schema:Article",
+    "SupportConversation": "support:SupportConversation",
+    "SupportContact": "schema:Person",
+
+    "id": "schema:identifier",
+    "name": "schema:name",
+    "title": "schema:headline",
+    "subject": "schema:about",
+    "description": "schema:description",
+    "summary": "schema:abstract",
+    "body": "schema:articleBody",
+    "slug": "support:slug",
+
+    "status": {
+      "@id": "support:status",
+      "@type": "xsd:string"
+    },
+    "priority": {
+      "@id": "support:priority",
+      "@type": "xsd:string"
+    },
+    "channel": {
+      "@id": "support:channel",
+      "@type": "xsd:string"
+    },
+    "visibility": {
+      "@id": "support:visibility",
+      "@type": "xsd:string"
+    },
+    "locale": {
+      "@id": "schema:inLanguage",
+      "@type": "xsd:string"
+    },
+
+    "requester": {
+      "@id": "schema:author",
+      "@type": "@id"
+    },
+    "assignee_id": {
+      "@id": "support:assignee",
+      "@type": "@id"
+    },
+    "group_id": {
+      "@id": "support:group",
+      "@type": "@id"
+    },
+    "category_id": {
+      "@id": "schema:articleSection",
+      "@type": "@id"
+    },
+    "author_id": {
+      "@id": "schema:author",
+      "@type": "@id"
+    },
+
+    "sla_breached": {
+      "@id": "support:sla_breached",
+      "@type": "xsd:boolean"
+    },
+    "view_count": {
+      "@id": "schema:interactionCount",
+      "@type": "xsd:integer"
+    },
+
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+
+    "created_at": {
+      "@id": "dcterms:created",
+      "@type": "xsd:dateTime"
+    },
+    "updated_at": {
+      "@id": "dcterms:modified",
+      "@type": "xsd:dateTime"
+    }
+  }
+}
