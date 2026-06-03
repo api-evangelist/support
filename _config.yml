@@ -1,0 +1,24 @@
+title: Support
+description: An index and topic collection covering customer support, help desk, ticketing,
+  knowledge base, and live chat APIs. Customer support platforms power the interfaces
+  and back-office systems that companies use to receive, route, resolve, and learn
+  from customer inquiries across email, chat, phone, social, and self-service channels.
+  This collection includes traditional help desk and ticketing suites like Zendesk,
+  Freshdesk, and Help Scout, conversational customer support platforms like Intercom
+  and Front, enterprise service clouds from Salesforce, ServiceNow, and Microsoft,
+  knowledge base and self-service systems, live chat and messaging platforms like
+  Crisp, LiveChat, and Olark, and modern API-first support tools like Plain and Chatwoot.
+url: https://support.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
