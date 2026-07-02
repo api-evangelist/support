@@ -3,8 +3,6 @@ An index and topic collection covering customer support, help desk, ticketing, k
 
 **URL:** [https://apievangelist.com](https://apievangelist.com)
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
-
 ## Tags:
 
  - Customer Support, Help Desk, Ticketing, Knowledge Base, Live Chat, Customer Service
