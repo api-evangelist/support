@@ -1,7 +1,7 @@
 ---
-title: 'Connect Zammad to ChatGPT: Automate Support and Knowledge Bases via MCP'
-link: https://truto.one/blog/connect-zammad-to-chatgpt-automate-support-and-knowledge-bases/
-published: '2026-08-10'
+title: 'Connect TOPdesk to ChatGPT: Manage Incidents & Assets via MCP'
+link: https://truto.one/blog/connect-topdesk-to-chatgpt-manage-incidents-assets-reservations/
+published: '2026-08-18'
 provider: truto
 repo: https://github.com/api-evangelist/truto
 domain: truto.one
