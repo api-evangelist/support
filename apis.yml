@@ -1,5 +1,6 @@
 aid: support
 name: Support
+kind: topic
 description: >-
   An index and topic collection covering customer support, help desk, ticketing, knowledge base, and live chat APIs. Customer support platforms power the
   interfaces and back-office systems that companies use to receive, route, resolve, and learn from customer inquiries across email, chat, phone, social,
