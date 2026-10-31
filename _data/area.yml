@@ -11,12 +11,11 @@ meta:
     platforms like Crisp, LiveChat, and Olark, and modern API-first support tools
     like Plain and Chatwoot.
   tags:
-  - Customer Support
+  - Customer Service
   - Help Desk
   - Ticketing
   - Knowledge Base
   - Live Chat
-  - Customer Service
   portal: https://apievangelist.com
   github: https://github.com/api-evangelist
   repo: support
