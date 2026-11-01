@@ -1,121 +1,97 @@
-# Support (support)
+# Support
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering customer support, help desk, ticketing, knowledge base, and live chat APIs. Customer support platforms power the interfaces and back-office systems that companies use to receive, route, resolve, and learn from customer inquiries across email, chat, phone, social, and self-service channels. This collection includes traditional help desk and ticketing suites like Zendesk, Freshdesk, and Help Scout, conversational customer support platforms like Intercom and Front, enterprise service clouds from Salesforce, ServiceNow, and Microsoft, knowledge base and self-service systems, live chat and messaging platforms like Crisp, LiveChat, and Olark, and modern API-first support tools like Plain and Chatwoot.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Customer Service · Help Desk · Ticketing · Knowledge Base · Live Chat
 
-## Tags:
+## Support on APIs.io
 
- - Customer Support, Help Desk, Ticketing, Knowledge Base, Live Chat, Customer Service
+Everything profiled for Support is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/support/](https://apis.io/providers/support/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Ticket Schema](https://raw.githubusercontent.com/api-evangelist/support/refs/heads/main/json-schema/support-ticket-schema.json)
-- [JSONSchema - Knowledge Base Article Schema](https://raw.githubusercontent.com/api-evangelist/support/refs/heads/main/json-schema/support-kb-article-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/support/refs/heads/main/json-ld/support-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/support/refs/heads/main/vocabulary/support-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Ticket and Case Management | Support APIs expose create, read, update, and resolve operations on tickets, cases, or conversations representing each customer inquiry, with status, priority, and assignment workflows. |
-| Omnichannel Conversation Threads | Modern support platforms unify email, chat, social, SMS, and voice into a single conversation thread per customer, exposed through APIs that abstract the underlying channel. |
-| Knowledge Base and Self-Service | Knowledge base APIs let teams publish, version, and search help articles that power customer self-service portals, in-product help, and AI deflection agents. |
-| SLA and Routing Policies | Service-level agreements, business hours, queues, and skills-based routing rules are exposed as configurable API resources that drive how tickets flow through support teams. |
-| Contact and Organization Records | Support APIs maintain customer contact and organization records that link conversations, ticket history, custom attributes, and integrations to CRM systems. |
-| Macros, Triggers, and Automations | Reusable macros, event-driven triggers, and workflow automations are exposed as APIs so teams can codify common responses and resolution patterns. |
-| Live Chat and Messaging | Live chat APIs power real-time conversations between customers and agents through web, mobile, and messaging channel widgets with presence, typing, and file sharing primitives. |
-| Reporting and CSAT | Reporting APIs expose ticket volume, response and resolution times, agent productivity, and customer satisfaction (CSAT) scores for dashboards and warehouse export. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Omnichannel Help Desk | Companies use platforms like Zendesk, Freshdesk, and Help Scout to route customer email, chat, and social inquiries into a single ticket queue worked by a shared support team. |
-| In-Product Messaging and Customer Support | Platforms like Intercom and Crisp embed conversational support widgets directly in web and mobile products, blending live chat, chatbots, and help articles. |
-| Enterprise Customer Service | Salesforce Service Cloud, ServiceNow, and Microsoft Dynamics 365 Customer Service handle enterprise-scale case management, integrated with CRM, field service, and back-office systems. |
-| Status Communication and Incident Updates | Atlassian Statuspage and similar tools publish service status, incident timelines, and scheduled maintenance through APIs and customer-facing status pages. |
-| Self-Service Knowledge Bases | Document360, Archbee, and DeveloperHub power public and private help centers, customer documentation portals, and AI-searchable knowledge bases. |
-| E-commerce and Subscription Support | Gorgias, Kustomer, and Zendesk integrate deeply with Shopify, Stripe, and other commerce platforms so support agents see orders, refunds, and subscription state alongside each ticket. |
-| Internal IT Service Desk | ServiceDesk Plus, SysAid, TOPdesk, and Spiceworks deliver IT service management (ITSM) workflows for employees raising IT, HR, and facilities requests. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Support: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| Zendesk | Market-leading customer support and ticketing suite with deep APIs for tickets, users, organizations, macros, triggers, and help center articles. |
-| Intercom | Conversational customer engagement platform with APIs for conversations, contacts, articles, and AI-powered Fin support automation. |
-| Freshdesk | Freshworks' omnichannel customer support and ticketing platform with APIs for tickets, contacts, agents, and knowledge base solutions. |
-| Help Scout | Shared inbox and help desk platform designed for small and mid-market teams, with APIs for conversations, customers, mailboxes, and Docs articles. |
-| Salesforce Service Cloud | Enterprise customer service platform built on the Salesforce CRM, with REST and SOAP APIs for cases, knowledge articles, entitlements, and omnichannel routing. |
-| ServiceNow | Enterprise service management platform with APIs covering customer service management, incident, problem, change, and knowledge management. |
-| Front | Shared inbox and customer operations platform with APIs for conversations, contacts, comments, and team collaboration on customer email. |
-| Statuspage | Atlassian's incident communication platform with APIs to publish component status, incidents, scheduled maintenance, and subscriber notifications. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Ticket Schema](json-schema/support-ticket-schema.json)
-- [Knowledge Base Article Schema](json-schema/support-kb-article-schema.json)
-
-### JSON Structure
-
-- [Ticket Structure](json-structure/support-ticket-structure.json)
-- [Knowledge Base Article Structure](json-structure/support-kb-article-structure.json)
-
-### JSON-LD
-
-- [Support Context](json-ld/support-context.jsonld)
-
-## Vocabulary
-
-- [Support Vocabulary](vocabulary/support-vocabulary.yaml) - Unified taxonomy mapping resources, actions, workflows, and personas across help desk, ticketing, knowledge base, and live chat platforms
-
-## Network
-
-This index references the following customer support repositories:
-
-- [Zendesk](https://github.com/api-evangelist/zendesk)
-- [Intercom](https://github.com/api-evangelist/intercom)
-- [Freshdesk](https://github.com/api-evangelist/freshdesk)
-- [Freshworks](https://github.com/api-evangelist/freshworks)
-- [Freshchat](https://github.com/api-evangelist/freshchat)
-- [Help Scout](https://github.com/api-evangelist/helpscout)
-- [HubSpot](https://github.com/api-evangelist/hubspot)
-- [Salesforce Service Cloud](https://github.com/api-evangelist/salesforce-service-cloud)
-- [ServiceNow](https://github.com/api-evangelist/servicenow)
-- [Atlassian Jira](https://github.com/api-evangelist/atlassian-jira)
-- [Statuspage](https://github.com/api-evangelist/statuspage)
-- [Front](https://github.com/api-evangelist/front)
-- [Kustomer](https://github.com/api-evangelist/kustomer)
-- [Gorgias](https://github.com/api-evangelist/gorgias)
-- [Groove](https://github.com/api-evangelist/groove)
-- [Crisp](https://github.com/api-evangelist/crisp)
-- [LiveChat](https://github.com/api-evangelist/livechat)
-- [Olark](https://github.com/api-evangelist/olark)
-- [Zoho Desk](https://github.com/api-evangelist/zoho-desk)
-- [Microsoft Dynamics 365](https://github.com/api-evangelist/microsoft-dynamics-365)
-- [Spiceworks](https://github.com/api-evangelist/spiceworks)
-- [ServiceDesk Plus](https://github.com/api-evangelist/servicedesk-plus)
-- [SysAid](https://github.com/api-evangelist/sysaid)
-- [TOPdesk](https://github.com/api-evangelist/topdesk)
-- [LivePerson](https://github.com/api-evangelist/liveperson)
-- [Document360](https://github.com/api-evangelist/document360)
-- [Archbee](https://github.com/api-evangelist/archbee)
-- [DeveloperHub](https://github.com/api-evangelist/developerhub)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/support/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
